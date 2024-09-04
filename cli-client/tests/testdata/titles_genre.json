@@ -1,0 +1,2725 @@
+[
+  {
+    "titleID": "tt0097775",
+    "type": "movie",
+    "original_title": "Long hang tian xia",
+    "titlePoster": "https://image.tmdb.org/t/p/original/j9Eji1A8AyelmdHCJTlVBCZziGK.jpg",
+    "startYear": "1992",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Comedy"
+      },
+      {
+        "genreName": "Crime"
+      },
+      {
+        "genreName": "Action"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Huang Fei hung 92 zhi Long hang tian xia",
+        "regionAbbrev": "HK"
+      },
+      {
+        "akaTitle": "The Master",
+        "regionAbbrev": "ID"
+      },
+      {
+        "akaTitle": "The Master",
+        "regionAbbrev": "DE"
+      },
+      {
+        "akaTitle": "The Master",
+        "regionAbbrev": "US"
+      },
+      {
+        "akaTitle": "Mesterek",
+        "regionAbbrev": "HU"
+      },
+      {
+        "akaTitle": "Мастер",
+        "regionAbbrev": "RU"
+      },
+      {
+        "akaTitle": "The Defector 2",
+        "regionAbbrev": "CH"
+      },
+      {
+        "akaTitle": "Учителят",
+        "regionAbbrev": "BG"
+      },
+      {
+        "akaTitle": "Long hang tian xia",
+        "regionAbbrev": null
+      },
+      {
+        "akaTitle": "O Mestre",
+        "regionAbbrev": "PT"
+      },
+      {
+        "akaTitle": "O Mestre",
+        "regionAbbrev": "BR"
+      },
+      {
+        "akaTitle": "Long Hang Tian Xia",
+        "regionAbbrev": "ZA"
+      },
+      {
+        "akaTitle": "Wong Fei Hung 92: Dragon walks the firmamaent",
+        "regionAbbrev": "HK"
+      },
+      {
+        "akaTitle": "The Master",
+        "regionAbbrev": "ES"
+      },
+      {
+        "akaTitle": "The Master",
+        "regionAbbrev": "GB"
+      },
+      {
+        "akaTitle": "Jet Li: Dragon Fighter II",
+        "regionAbbrev": "DE"
+      },
+      {
+        "akaTitle": "Hard Blood",
+        "regionAbbrev": "JP"
+      },
+      {
+        "akaTitle": "Lung hang tin ha",
+        "regionAbbrev": "HK"
+      },
+      {
+        "akaTitle": "The Master",
+        "regionAbbrev": "HK"
+      },
+      {
+        "akaTitle": "Віртуоз",
+        "regionAbbrev": "UA"
+      },
+      {
+        "akaTitle": "O daskalos tou kung fu",
+        "regionAbbrev": "GR"
+      },
+      {
+        "akaTitle": "Dragon Fighter II",
+        "regionAbbrev": "DE"
+      },
+      {
+        "akaTitle": "The Master",
+        "regionAbbrev": "FR"
+      },
+      {
+        "akaTitle": "Mistrz",
+        "regionAbbrev": "PL"
+      },
+      {
+        "akaTitle": "The Master",
+        "regionAbbrev": "XWW"
+      },
+      {
+        "akaTitle": "Wong Fei Hung 92 ji Lung hang tin ha",
+        "regionAbbrev": "HK"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0250267",
+        "primaryName": "Paul A. Edwards",
+        "category": "cinematographer"
+      },
+      {
+        "nameID": "nm0001472",
+        "primaryName": "Jet Li",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0950757",
+        "primaryName": "Wah Yuen",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0477215",
+        "primaryName": "Crystal Kwok",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0872864",
+        "primaryName": "Jerry Trimble",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0007139",
+        "primaryName": "Hark Tsui",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0442983",
+        "primaryName": "Kee-To Lam",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0490622",
+        "primaryName": "Tai-Mok Lau",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0482720",
+        "primaryName": "Yee Tat Lam",
+        "category": "composer"
+      },
+      {
+        "nameID": "nm0150912",
+        "primaryName": "Henry Chan",
+        "category": "cinematographer"
+      }
+    ],
+    "rating": {
+      "avRating": "5.7",
+      "nVotes": "2930"
+    }
+  },
+  {
+    "titleID": "tt0101836",
+    "type": "tvEpisode",
+    "original_title": "Black & White",
+    "titlePoster": null,
+    "startYear": "1991",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Comedy"
+      },
+      {
+        "genreName": "Crime"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Detektyw Extralarge: Czarne i białe",
+        "regionAbbrev": "PL"
+      },
+      {
+        "akaTitle": "Zwei Supertypen in Miami - Die Schöne mit dem kleinen Tick",
+        "regionAbbrev": "DE"
+      },
+      {
+        "akaTitle": "Extralarge - Az enyveskezü",
+        "regionAbbrev": "HU"
+      },
+      {
+        "akaTitle": "Black & White",
+        "regionAbbrev": null
+      },
+      {
+        "akaTitle": "Anjos da Lei",
+        "regionAbbrev": "BR"
+      },
+      {
+        "akaTitle": "Black & White",
+        "regionAbbrev": "US"
+      },
+      {
+        "akaTitle": "Ação em Dose Dupla",
+        "regionAbbrev": "BR"
+      },
+      {
+        "akaTitle": "Extralarge: Fekete és fehér",
+        "regionAbbrev": "HU"
+      },
+      {
+        "akaTitle": "XXL Detektivi: Crno i belo",
+        "regionAbbrev": "RS"
+      },
+      {
+        "akaTitle": "Detective Extralarge: Black and White",
+        "regionAbbrev": "IT"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0320952",
+        "primaryName": "Roberto Girometti",
+        "category": "cinematographer"
+      },
+      {
+        "nameID": "nm0817881",
+        "primaryName": "Bud Spencer",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0859365",
+        "primaryName": "Philip Michael Thomas",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0903110",
+        "primaryName": "Friedrich von Thun",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0066040",
+        "primaryName": "Lou Bedford",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0144758",
+        "primaryName": "Enzo G. Castellari",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0053716",
+        "primaryName": "Marco Barboni",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0604304",
+        "primaryName": "Sandro Moretti",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0669968",
+        "primaryName": "Giuseppe Pedersoli",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0723156",
+        "primaryName": "Enrico Riccardi",
+        "category": "composer"
+      }
+    ],
+    "rating": {
+      "avRating": "5.8",
+      "nVotes": "257"
+    }
+  },
+  {
+    "titleID": "tt0092984",
+    "type": "movie",
+    "original_title": "Esto es un atraco",
+    "titlePoster": "https://image.tmdb.org/t/p/original/gvAJfhqbZqAoaN4hzA9htk8QWq3.jpg",
+    "startYear": "1991",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Comedy"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Esto es un atraco",
+        "regionAbbrev": "ES"
+      },
+      {
+        "akaTitle": "Esto es un atraco",
+        "regionAbbrev": null
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0302694",
+        "primaryName": "Aurelio Gallego",
+        "category": "production_designer"
+      },
+      {
+        "nameID": "nm0654843",
+        "primaryName": "Antonio Ozores",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0174290",
+        "primaryName": "Fernando Conde",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0713999",
+        "primaryName": "Alfonso del Real",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0953623",
+        "primaryName": "Flavia Zarzo",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0654839",
+        "primaryName": "Mariano Ozores",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0143107",
+        "primaryName": "Carlos Cascales",
+        "category": "producer"
+      },
+      {
+        "nameID": "nm0305862",
+        "primaryName": "Gregorio García Segura",
+        "category": "composer"
+      },
+      {
+        "nameID": "nm0558293",
+        "primaryName": "Manuel Mateos",
+        "category": "cinematographer"
+      },
+      {
+        "nameID": "nm0737932",
+        "primaryName": "José Antonio Rojo",
+        "category": "editor"
+      }
+    ],
+    "rating": {
+      "avRating": "4.9",
+      "nVotes": "76"
+    }
+  },
+  {
+    "titleID": "tt0070501",
+    "type": "movie",
+    "original_title": "Palomita blanca",
+    "titlePoster": "https://image.tmdb.org/t/p/original/dWwwtXoKFRq9Bky6fnbo2MIfNRH.jpg",
+    "startYear": "1992",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Comedy"
+      },
+      {
+        "genreName": "Drama"
+      },
+      {
+        "genreName": "Romance"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Little White Dove",
+        "regionAbbrev": "US"
+      },
+      {
+        "akaTitle": "Palomita blanca",
+        "regionAbbrev": null
+      },
+      {
+        "akaTitle": "Little White Dove",
+        "regionAbbrev": "GB"
+      },
+      {
+        "akaTitle": "Biała gołąbka",
+        "regionAbbrev": "PL"
+      },
+      {
+        "akaTitle": "Palomita Blanca",
+        "regionAbbrev": "CL"
+      },
+      {
+        "akaTitle": "Little White Dove",
+        "regionAbbrev": "XWW"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0487508",
+        "primaryName": "Beatriz Lapido",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm3012589",
+        "primaryName": "Rodrigo Ureta",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm5672626",
+        "primaryName": "Mónica Díaz",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0033058",
+        "primaryName": "Manuel Aranguiz",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0749914",
+        "primaryName": "Raúl Ruiz",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0481040",
+        "primaryName": "Enrique Lafourcade",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm1097480",
+        "primaryName": "Los Jaivas",
+        "category": "composer"
+      },
+      {
+        "nameID": "nm0129028",
+        "primaryName": "Silvio Caiozzi",
+        "category": "cinematographer"
+      },
+      {
+        "nameID": "nm0681196",
+        "primaryName": "Carlos Piaggio",
+        "category": "editor"
+      }
+    ],
+    "rating": {
+      "avRating": "7.0",
+      "nVotes": "230"
+    }
+  },
+  {
+    "titleID": "tt0101837",
+    "type": "tvEpisode",
+    "original_title": "Cannonball",
+    "titlePoster": null,
+    "startYear": "1991",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Comedy"
+      },
+      {
+        "genreName": "Crime"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Extra Large: Miami Drugs",
+        "regionAbbrev": "DE"
+      },
+      {
+        "akaTitle": "Cannonball",
+        "regionAbbrev": null
+      },
+      {
+        "akaTitle": "Zwei Supertypen in Miami - Tödliches Spiel",
+        "regionAbbrev": "DE"
+      },
+      {
+        "akaTitle": "Conexão Miami",
+        "regionAbbrev": "BR"
+      },
+      {
+        "akaTitle": "Missão de Fogo",
+        "regionAbbrev": "PT"
+      },
+      {
+        "akaTitle": "Droga Maldita",
+        "regionAbbrev": "BR"
+      },
+      {
+        "akaTitle": "Detective Extralarge: Cannonball",
+        "regionAbbrev": "IT"
+      },
+      {
+        "akaTitle": "Extralarge: Ágyúgolyó",
+        "regionAbbrev": "HU"
+      },
+      {
+        "akaTitle": "Detektyw Extralarge: Cannonball",
+        "regionAbbrev": "PL"
+      },
+      {
+        "akaTitle": "XXL Detektivi: Kenonbol",
+        "regionAbbrev": "RS"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0723156",
+        "primaryName": "Enrico Riccardi",
+        "category": "composer"
+      },
+      {
+        "nameID": "nm0817881",
+        "primaryName": "Bud Spencer",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0859365",
+        "primaryName": "Philip Michael Thomas",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0066040",
+        "primaryName": "Lou Bedford",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0749959",
+        "primaryName": "Vivian Ruiz",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0144758",
+        "primaryName": "Enzo G. Castellari",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0053716",
+        "primaryName": "Marco Barboni",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0604304",
+        "primaryName": "Sandro Moretti",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0669968",
+        "primaryName": "Giuseppe Pedersoli",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0094730",
+        "primaryName": "Claudio Bonivento",
+        "category": "producer"
+      }
+    ],
+    "rating": {
+      "avRating": "5.7",
+      "nVotes": "219"
+    }
+  },
+  {
+    "titleID": "tt0102711",
+    "type": "tvEpisode",
+    "original_title": "Prince",
+    "titlePoster": "https://image.tmdb.org/t/p/original/oEjANiLQPAwAiDTVByFAkQfMruw.jpg",
+    "startYear": "1991",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Comedy"
+      },
+      {
+        "genreName": "Drama"
+      },
+      {
+        "genreName": "Crime"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Prince",
+        "regionAbbrev": "GB"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0788946",
+        "primaryName": "Roy Sharman",
+        "category": "editor"
+      },
+      {
+        "nameID": "nm0000293",
+        "primaryName": "Sean Bean",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0598759",
+        "primaryName": "Celia Montague",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0570212",
+        "primaryName": "Jackie McGuire",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0005216",
+        "primaryName": "Janet McTeer",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0923675",
+        "primaryName": "David Wheatley",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0083320",
+        "primaryName": "Julie Burchill",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0062344",
+        "primaryName": "Ruth Baumgarten",
+        "category": "producer"
+      },
+      {
+        "nameID": "nm0175389",
+        "primaryName": "Bill Connor",
+        "category": "composer"
+      },
+      {
+        "nameID": "nm0393758",
+        "primaryName": "John Hooper",
+        "category": "cinematographer"
+      }
+    ],
+    "rating": {
+      "avRating": "8.1",
+      "nVotes": "54"
+    }
+  },
+  {
+    "titleID": "tt0101300",
+    "type": "tvEpisode",
+    "original_title": "Alive and Kicking",
+    "titlePoster": "https://image.tmdb.org/t/p/original/gelkUol49M8nISTbZvCAZPpeFvv.jpg",
+    "startYear": "1991",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Comedy"
+      },
+      {
+        "genreName": "Drama"
+      },
+      {
+        "genreName": "Crime"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Alive and Kicking",
+        "regionAbbrev": "GB"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0910324",
+        "primaryName": "Nigel Walters",
+        "category": "cinematographer"
+      },
+      {
+        "nameID": "nm0377901",
+        "primaryName": "Lenny Henry",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0001059",
+        "primaryName": "Robbie Coltrane",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0032536",
+        "primaryName": "Annabelle Apsion",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0290162",
+        "primaryName": "Geff Francis",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0950000",
+        "primaryName": "Robert Young",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0039185",
+        "primaryName": "Al Ashton",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0860034",
+        "primaryName": "David M. Thompson",
+        "category": "producer"
+      },
+      {
+        "nameID": "nm0032373",
+        "primaryName": "Philip Appleby",
+        "category": "composer"
+      },
+      {
+        "nameID": "nm0727132",
+        "primaryName": "Mykael S. Riley",
+        "category": "composer"
+      }
+    ],
+    "rating": {
+      "avRating": "7.5",
+      "nVotes": "71"
+    }
+  },
+  {
+    "titleID": "tt0099851",
+    "type": "tvEpisode",
+    "original_title": "Into the Woods",
+    "titlePoster": "https://image.tmdb.org/t/p/original/uwMNWZg9gxCNCeruYvEdBN3Zhyb.jpg",
+    "startYear": "1991",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Comedy"
+      },
+      {
+        "genreName": "Drama"
+      },
+      {
+        "genreName": "Romance"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Into the Woods",
+        "regionAbbrev": "US"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0389058",
+        "primaryName": "Philip Hoffman",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0001613",
+        "primaryName": "Bernadette Peters",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0322306",
+        "primaryName": "Joanna Gleason",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0956268",
+        "primaryName": "Chip Zien",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0291839",
+        "primaryName": "Joy Franz",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0487567",
+        "primaryName": "James Lapine",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0581034",
+        "primaryName": "Iris Merlis",
+        "category": "producer"
+      },
+      {
+        "nameID": "nm0080259",
+        "primaryName": "Girish Bhargava",
+        "category": "editor"
+      },
+      {
+        "nameID": "nm0833151",
+        "primaryName": "Tony Straiges",
+        "category": "production_designer"
+      },
+      {
+        "nameID": "nm0528520",
+        "primaryName": "Edmund Lyndeck",
+        "category": "actor"
+      }
+    ],
+    "rating": {
+      "avRating": "8.7",
+      "nVotes": "3181"
+    }
+  },
+  {
+    "titleID": "tt0093309",
+    "type": "movie",
+    "original_title": "Jiang shi zhi zun",
+    "titlePoster": "https://image.tmdb.org/t/p/original/30dEWag4exYaAygUtvpPwkKs8L4.jpg",
+    "startYear": "1991",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Comedy"
+      },
+      {
+        "genreName": "Horror"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Jiang shi zhi zun",
+        "regionAbbrev": null
+      },
+      {
+        "akaTitle": "彊屍至尊",
+        "regionAbbrev": "HK"
+      },
+      {
+        "akaTitle": "The Ultimate Vampire",
+        "regionAbbrev": "XWW"
+      },
+      {
+        "akaTitle": "靈幻家族",
+        "regionAbbrev": "TW"
+      },
+      {
+        "akaTitle": "The Ultimate Vampire",
+        "regionAbbrev": "HK"
+      },
+      {
+        "akaTitle": "殭屍至尊",
+        "regionAbbrev": "HK"
+      },
+      {
+        "akaTitle": "The Ultimate Vampire",
+        "regionAbbrev": "GB"
+      },
+      {
+        "akaTitle": "The Ultimate Vampire",
+        "regionAbbrev": "US"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0150971",
+        "primaryName": "Ki-Hop Chan",
+        "category": "editor"
+      },
+      {
+        "nameID": "nm0482580",
+        "primaryName": "Ching-Ying Lam",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0157785",
+        "primaryName": "Siu-Ho Chin",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0939309",
+        "primaryName": "Ronald Wong",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0628731",
+        "primaryName": "Carrie Ng",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0490487",
+        "primaryName": "Andrew Lau",
+        "category": "director"
+      },
+      {
+        "nameID": "nm5071994",
+        "primaryName": "Chak-Chi Lok",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm5071242",
+        "primaryName": "Chung Chin",
+        "category": "producer"
+      },
+      {
+        "nameID": "nm0399065",
+        "primaryName": "Ying Wong",
+        "category": "producer"
+      },
+      {
+        "nameID": "nm0150888",
+        "primaryName": "Fei-Lit Chan",
+        "category": "composer"
+      }
+    ],
+    "rating": {
+      "avRating": "6.2",
+      "nVotes": "179"
+    }
+  },
+  {
+    "titleID": "tt0097864",
+    "type": "movie",
+    "original_title": "Meng gui hu li jing",
+    "titlePoster": "https://image.tmdb.org/t/p/original/4LZAlrRCCZwPvCWFTiNhMq5vwWY.jpg",
+    "startYear": "1991",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Comedy"
+      },
+      {
+        "genreName": "Action"
+      },
+      {
+        "genreName": "Fantasy"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Mang gwai wu lei jing",
+        "regionAbbrev": "HK"
+      },
+      {
+        "akaTitle": "Meng gui hu li jing",
+        "regionAbbrev": null
+      },
+      {
+        "akaTitle": "Mo dai tian shi",
+        "regionAbbrev": "HK"
+      },
+      {
+        "akaTitle": "Return of the Evil Fox",
+        "regionAbbrev": "HK"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0793008",
+        "primaryName": "Fui-On Shing",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0510950",
+        "primaryName": "Sandra Kwan Yue Ng",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0150821",
+        "primaryName": "Charine Chan",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0628756",
+        "primaryName": "Fung Woo",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm1296306",
+        "primaryName": "Gong Ng",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0504941",
+        "primaryName": "Chuo-Chi Leung",
+        "category": "director"
+      },
+      {
+        "nameID": "nm4390701",
+        "primaryName": "Kong Mou",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm5927591",
+        "primaryName": "Yam-Chuen Chan",
+        "category": "producer"
+      },
+      {
+        "nameID": "nm1266013",
+        "primaryName": "Ming Ho",
+        "category": "cinematographer"
+      },
+      {
+        "nameID": "nm0150995",
+        "primaryName": "Wing-Chan Leung",
+        "category": "editor"
+      }
+    ],
+    "rating": {
+      "avRating": "5.0",
+      "nVotes": "46"
+    }
+  },
+  {
+    "titleID": "tt0096154",
+    "type": "movie",
+    "original_title": "Spies Inc.",
+    "titlePoster": "https://image.tmdb.org/t/p/original/rnNQAm082uMTdhq1aB8uxJjNS8s.jpg",
+    "startYear": "1992",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Comedy"
+      },
+      {
+        "genreName": "Adventure"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Kém Rt. - Kémek, hazugságok, alibik",
+        "regionAbbrev": "HU"
+      },
+      {
+        "akaTitle": "Spie, pasticci e bugie",
+        "regionAbbrev": "IT"
+      },
+      {
+        "akaTitle": "Espiões e Aldrabões",
+        "regionAbbrev": "PT"
+      },
+      {
+        "akaTitle": "Code Name: Chaos",
+        "regionAbbrev": null
+      },
+      {
+        "akaTitle": "Spies Inc.",
+        "regionAbbrev": null
+      },
+      {
+        "akaTitle": "Die Chaoten-Spione",
+        "regionAbbrev": "XWG"
+      },
+      {
+        "akaTitle": "S.P.O.O.K.S.",
+        "regionAbbrev": null
+      },
+      {
+        "akaTitle": "Tres espías y medio",
+        "regionAbbrev": "ES"
+      },
+      {
+        "akaTitle": "Spies, Lies and Alibis",
+        "regionAbbrev": null
+      },
+      {
+        "akaTitle": "Spies Inc.",
+        "regionAbbrev": "US"
+      },
+      {
+        "akaTitle": "Triple danger",
+        "regionAbbrev": "FR"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0005881",
+        "primaryName": "Mike Southon",
+        "category": "cinematographer"
+      },
+      {
+        "nameID": "nm0450116",
+        "primaryName": "Brian Kerwin",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0000481",
+        "primaryName": "Alice Krige",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0005162",
+        "primaryName": "Robert Loggia",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0002663",
+        "primaryName": "Diane Ladd",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0002793",
+        "primaryName": "Antony Thomas",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0396400",
+        "primaryName": "Jim Hougan",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0506478",
+        "primaryName": "John E. Levy",
+        "category": "producer"
+      },
+      {
+        "nameID": "nm0004443",
+        "primaryName": "Fiachra Trench",
+        "category": "composer"
+      },
+      {
+        "nameID": "nm0001877",
+        "primaryName": "Hans Zimmer",
+        "category": "composer"
+      }
+    ],
+    "rating": {
+      "avRating": "4.0",
+      "nVotes": "122"
+    }
+  },
+  {
+    "titleID": "tt0102863",
+    "type": "tvEpisode",
+    "original_title": "Filipina Dreamgirls",
+    "titlePoster": "https://image.tmdb.org/t/p/original/fQQJlidZ3iQlsBd8Vx1oaRhM21k.jpg",
+    "startYear": "1991",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Comedy"
+      },
+      {
+        "genreName": "Drama"
+      },
+      {
+        "genreName": "Crime"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Filipina Dreamgirls",
+        "regionAbbrev": "GB"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0000667",
+        "primaryName": "David Thewlis",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0562732",
+        "primaryName": "Bill Maynard",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0236867",
+        "primaryName": "Charlie Drake",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0404232",
+        "primaryName": "Geoffrey Hutchings",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0180325",
+        "primaryName": "Lee Cornes",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0086295",
+        "primaryName": "Les Blair",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0203577",
+        "primaryName": "Andrew Davies",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0670236",
+        "primaryName": "Jacinta Peel",
+        "category": "producer"
+      },
+      {
+        "nameID": "nm0109699",
+        "primaryName": "Simon Brint",
+        "category": "composer"
+      },
+      {
+        "nameID": "nm0746474",
+        "primaryName": "Ashley Rowe",
+        "category": "cinematographer"
+      }
+    ],
+    "rating": {
+      "avRating": "6.9",
+      "nVotes": "73"
+    }
+  },
+  {
+    "titleID": "tt0097111",
+    "type": "movie",
+    "original_title": "Vai Trabalhar, Vagabundo II",
+    "titlePoster": "https://image.tmdb.org/t/p/original/tEwuW06aaDkWKqwRUFMI7TT61bS.jpg",
+    "startYear": "1991",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Comedy"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Vai Trabalhar, Vagabundo II",
+        "regionAbbrev": null
+      },
+      {
+        "akaTitle": "Coraçao vagabundo",
+        "regionAbbrev": "MX"
+      },
+      {
+        "akaTitle": "Amor vagabundo",
+        "regionAbbrev": "MX"
+      },
+      {
+        "akaTitle": "Vai Trabalhar, Vagabundo II - A Volta",
+        "regionAbbrev": "BR"
+      },
+      {
+        "akaTitle": "Go to Work, Vagabond II",
+        "regionAbbrev": "XWW"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0525189",
+        "primaryName": "Dib Lutfi",
+        "category": "cinematographer"
+      },
+      {
+        "nameID": "nm0142517",
+        "primaryName": "Hugo Carvana",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0944400",
+        "primaryName": "Nelson Xavier",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0041957",
+        "primaryName": "Otávio Augusto",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0525420",
+        "primaryName": "Lutero Luiz",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0051684",
+        "primaryName": "Denise Bandeira",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0182080",
+        "primaryName": "Armando Costa",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0423631",
+        "primaryName": "José Joffily",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0117770",
+        "primaryName": "Chico Buarque",
+        "category": "composer"
+      },
+      {
+        "nameID": "nm0764743",
+        "primaryName": "Sergio Saraceni",
+        "category": "composer"
+      }
+    ],
+    "rating": {
+      "avRating": "6.3",
+      "nVotes": "46"
+    }
+  },
+  {
+    "titleID": "tt0096222",
+    "type": "movie",
+    "original_title": "Tao xue wai zhuan",
+    "titlePoster": "https://image.tmdb.org/t/p/original/AnNpiNIOOTfShfJIUIMErkC0hgT.jpg",
+    "startYear": "1992",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Comedy"
+      },
+      {
+        "genreName": "Drama"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "To hok ngoi juen",
+        "regionAbbrev": "HK"
+      },
+      {
+        "akaTitle": "逃學歪傳",
+        "regionAbbrev": "TW"
+      },
+      {
+        "akaTitle": "Tao xue wai zhuan",
+        "regionAbbrev": null
+      },
+      {
+        "akaTitle": "To Miss with Love",
+        "regionAbbrev": "US"
+      },
+      {
+        "akaTitle": "Cup cua",
+        "regionAbbrev": "VN"
+      },
+      {
+        "akaTitle": "To Miss with Love",
+        "regionAbbrev": "XWW"
+      },
+      {
+        "akaTitle": "To Miss with Love",
+        "regionAbbrev": "GB"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0155163",
+        "primaryName": "Po-Wen Chen",
+        "category": "editor"
+      },
+      {
+        "nameID": "nm0510903",
+        "primaryName": "Jimmy Lin",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0156522",
+        "primaryName": "Man Cheung",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0156467",
+        "primaryName": "Dicky Cheung",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0628806",
+        "primaryName": "Man-Tat Ng",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0160900",
+        "primaryName": "Yen-Ping Chu",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0159052",
+        "primaryName": "John Chong",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0939147",
+        "primaryName": "Jing Wong",
+        "category": "producer"
+      },
+      {
+        "nameID": "nm2696407",
+        "primaryName": "Dominic Chow",
+        "category": "composer"
+      },
+      {
+        "nameID": "nm0151870",
+        "primaryName": "Jung-Shu Chen",
+        "category": "cinematographer"
+      }
+    ],
+    "rating": {
+      "avRating": "5.4",
+      "nVotes": "91"
+    }
+  },
+  {
+    "titleID": "tt0088267",
+    "type": "movie",
+    "original_title": "Tian di xuan men",
+    "titlePoster": "https://image.tmdb.org/t/p/original/5f5fEbNsh0vlUpx5w8A0b5rBLcT.jpg",
+    "startYear": "1991",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Comedy"
+      },
+      {
+        "genreName": "Action"
+      },
+      {
+        "genreName": "Fantasy"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "An Eternal Combat",
+        "regionAbbrev": "HK"
+      },
+      {
+        "akaTitle": "天地玄門",
+        "regionAbbrev": "TW"
+      },
+      {
+        "akaTitle": "An Eternal Combat",
+        "regionAbbrev": "XWW"
+      },
+      {
+        "akaTitle": "Tian di xuan men",
+        "regionAbbrev": null
+      },
+      {
+        "akaTitle": "Eternal Combat",
+        "regionAbbrev": "FR"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0438071",
+        "primaryName": "Phillip Ko",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0482580",
+        "primaryName": "Ching-Ying Lam",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0939153",
+        "primaryName": "Joey Wang",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0793008",
+        "primaryName": "Fui-On Shing",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0939065",
+        "primaryName": "Gabriel Wong",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0948151",
+        "primaryName": "Thomas Yip",
+        "category": "director"
+      },
+      {
+        "nameID": "nm1292716",
+        "primaryName": "Tung Ho",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm2448825",
+        "primaryName": "Gam-Lun Yuen",
+        "category": "producer"
+      },
+      {
+        "nameID": "nm0155713",
+        "primaryName": "Bei-Dak Cheong",
+        "category": "editor"
+      },
+      {
+        "nameID": "nm0938893",
+        "primaryName": "Anthony Chau-Sang Wong",
+        "category": "actor"
+      }
+    ],
+    "rating": {
+      "avRating": "5.5",
+      "nVotes": "117"
+    }
+  },
+  {
+    "titleID": "tt0102787",
+    "type": "tvEpisode",
+    "original_title": "Dreams",
+    "titlePoster": "https://image.tmdb.org/t/p/original/hQQc58syrUvX9ThQ1Dg4XeKaKzb.jpg",
+    "startYear": "1991",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Comedy"
+      },
+      {
+        "genreName": "Animation"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Dreams",
+        "regionAbbrev": null
+      },
+      {
+        "akaTitle": "Sueños (Rex the Runt)",
+        "regionAbbrev": "ES"
+      },
+      {
+        "akaTitle": "Rex the Runt: Dreams",
+        "regionAbbrev": null
+      },
+      {
+        "akaTitle": "Dreams",
+        "regionAbbrev": "GB"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0326450",
+        "primaryName": "Richard Starzak",
+        "category": "director"
+      }
+    ],
+    "rating": {
+      "avRating": "5.6",
+      "nVotes": "45"
+    }
+  },
+  {
+    "titleID": "tt0102786",
+    "type": "tvEpisode",
+    "original_title": "How Dinosaurs Became Extinct",
+    "titlePoster": "https://image.tmdb.org/t/p/original/q7ytGK5trp0utPcjfXLgnIVILKp.jpg",
+    "startYear": "1991",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Comedy"
+      },
+      {
+        "genreName": "Animation"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Dinosaurs",
+        "regionAbbrev": null
+      },
+      {
+        "akaTitle": "How Dinosaurs Became Extinct",
+        "regionAbbrev": "GB"
+      },
+      {
+        "akaTitle": "How Dinosaurs Became Extinct",
+        "regionAbbrev": null
+      },
+      {
+        "akaTitle": "Rex the Runt - Dinosaurier",
+        "regionAbbrev": "DE"
+      },
+      {
+        "akaTitle": "Rex the Runt: Dinosaurs",
+        "regionAbbrev": null
+      },
+      {
+        "akaTitle": "Rex the Runt: How Dinosaurs Became Extinct",
+        "regionAbbrev": null
+      },
+      {
+        "akaTitle": "Cómo se extinguieron los dinosaurios",
+        "regionAbbrev": "ES"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0326450",
+        "primaryName": "Richard Starzak",
+        "category": "director"
+      }
+    ],
+    "rating": {
+      "avRating": "6.3",
+      "nVotes": "42"
+    }
+  },
+  {
+    "titleID": "tt0101840",
+    "type": "tvEpisode",
+    "original_title": "Miami Killer",
+    "titlePoster": null,
+    "startYear": "1991",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Comedy"
+      },
+      {
+        "genreName": "Crime"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Zwei Supertypen in Miami - Der Kindermörder",
+        "regionAbbrev": "DE"
+      },
+      {
+        "akaTitle": "Detectiv cu greutate: Ucigasul din Miami",
+        "regionAbbrev": "RO"
+      },
+      {
+        "akaTitle": "O Assassino de Miami",
+        "regionAbbrev": "PT"
+      },
+      {
+        "akaTitle": "Miami Killer",
+        "regionAbbrev": null
+      },
+      {
+        "akaTitle": "O Assassino de Miami",
+        "regionAbbrev": "BR"
+      },
+      {
+        "akaTitle": "Detektyw Extralarge: Zabójca z Miami",
+        "regionAbbrev": "PL"
+      },
+      {
+        "akaTitle": "Extralarge: A Miami-ügy",
+        "regionAbbrev": "HU"
+      },
+      {
+        "akaTitle": "Extralarge: Gyilkosság Miamiban",
+        "regionAbbrev": "HU"
+      },
+      {
+        "akaTitle": "XXL Detektivi: Ubica iz Majamija",
+        "regionAbbrev": "RS"
+      },
+      {
+        "akaTitle": "Detective Extralarge: Miami Killer",
+        "regionAbbrev": "IT"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0320952",
+        "primaryName": "Roberto Girometti",
+        "category": "cinematographer"
+      },
+      {
+        "nameID": "nm0817881",
+        "primaryName": "Bud Spencer",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0859365",
+        "primaryName": "Philip Michael Thomas",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0066040",
+        "primaryName": "Lou Bedford",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0000803",
+        "primaryName": "Christopher Atkins",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0144758",
+        "primaryName": "Enzo G. Castellari",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0209906",
+        "primaryName": "Lorenzo De Luca",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0094730",
+        "primaryName": "Claudio Bonivento",
+        "category": "producer"
+      },
+      {
+        "nameID": "nm0669968",
+        "primaryName": "Giuseppe Pedersoli",
+        "category": "producer"
+      },
+      {
+        "nameID": "nm0723156",
+        "primaryName": "Enrico Riccardi",
+        "category": "composer"
+      }
+    ],
+    "rating": {
+      "avRating": "5.6",
+      "nVotes": "242"
+    }
+  },
+  {
+    "titleID": "tt0101271",
+    "type": "tvEpisode",
+    "original_title": "Adam Bede",
+    "titlePoster": "https://image.tmdb.org/t/p/original/9GzxKwqg2kXJRqp4SuqzIjTzCEB.jpg",
+    "startYear": "1992",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Comedy"
+      },
+      {
+        "genreName": "Drama"
+      },
+      {
+        "genreName": "Crime"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Adam Bede",
+        "regionAbbrev": null
+      },
+      {
+        "akaTitle": "Adam Bede",
+        "regionAbbrev": "GB"
+      },
+      {
+        "akaTitle": "Adam Bede - Schicksal und Leidenschaft",
+        "regionAbbrev": "DE"
+      },
+      {
+        "akaTitle": "Adam Bede",
+        "regionAbbrev": "AR"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0537402",
+        "primaryName": "Rex Maidment",
+        "category": "cinematographer"
+      },
+      {
+        "nameID": "nm0000475",
+        "primaryName": "Patsy Kensit",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0363117",
+        "primaryName": "Susannah Harker",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0672888",
+        "primaryName": "Michael Percival",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0223266",
+        "primaryName": "Edward Jewesbury",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0287821",
+        "primaryName": "Giles Foster",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0905547",
+        "primaryName": "Maggie Wadey",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0253652",
+        "primaryName": "George Eliot",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0328792",
+        "primaryName": "Peter Goodchild",
+        "category": "producer"
+      },
+      {
+        "nameID": "nm0366880",
+        "primaryName": "Richard Hartley",
+        "category": "composer"
+      }
+    ],
+    "rating": {
+      "avRating": "6.5",
+      "nVotes": "224"
+    }
+  },
+  {
+    "titleID": "tt0099781",
+    "type": "tvEpisode",
+    "original_title": "The Hollow Boy",
+    "titlePoster": null,
+    "startYear": "1991",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Comedy"
+      },
+      {
+        "genreName": "Drama"
+      },
+      {
+        "genreName": "Romance"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "The Hollow Boy",
+        "regionAbbrev": "US"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0002336",
+        "primaryName": "Declan Quinn",
+        "category": "cinematographer"
+      },
+      {
+        "nameID": "nm0000793",
+        "primaryName": "Alexis Arquette",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0277917",
+        "primaryName": "Marty Finkelstein",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0927043",
+        "primaryName": "Kathleen Widdoes",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm3129344",
+        "primaryName": "Alexandra Becker",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0085457",
+        "primaryName": "Noel Black",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0130040",
+        "primaryName": "Hortense Calisher",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0626922",
+        "primaryName": "Jay Neugeboren",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0438553",
+        "primaryName": "David R. Kappes",
+        "category": "producer"
+      },
+      {
+        "nameID": "nm0748270",
+        "primaryName": "John Rubinstein",
+        "category": "composer"
+      }
+    ],
+    "rating": {
+      "avRating": "7.9",
+      "nVotes": "17"
+    }
+  },
+  {
+    "titleID": "tt0097122",
+    "type": "movie",
+    "original_title": "Um Crime de Luxo",
+    "titlePoster": null,
+    "startYear": "1991",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Comedy"
+      },
+      {
+        "genreName": "Crime"
+      },
+      {
+        "genreName": "Romance"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "A Luxury Crime",
+        "regionAbbrev": "XWW"
+      },
+      {
+        "akaTitle": "Um Crime de Luxo",
+        "regionAbbrev": null
+      },
+      {
+        "akaTitle": "Um Crime de Luxo",
+        "regionAbbrev": "PT"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0783744",
+        "primaryName": "Artur Semedo",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0895669",
+        "primaryName": "Henrique Viana",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm1124665",
+        "primaryName": "Carlos Cunha",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0609295",
+        "primaryName": "Marina Mota",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm1369994",
+        "primaryName": "Carlos Alberto Moniz",
+        "category": "composer"
+      },
+      {
+        "nameID": "nm0182038",
+        "primaryName": "Manuel Costa e Silva",
+        "category": "cinematographer"
+      },
+      {
+        "nameID": "nm0735157",
+        "primaryName": "Maria José Rodrigues",
+        "category": "editor"
+      }
+    ],
+    "rating": {
+      "avRating": "6.6",
+      "nVotes": "10"
+    }
+  },
+  {
+    "titleID": "tt0103062",
+    "type": "tvEpisode",
+    "original_title": "Tell Me That You Love Me",
+    "titlePoster": "https://image.tmdb.org/t/p/original/hEBf4QPMswqPnOe6GlwhqDozhVi.jpg",
+    "startYear": "1991",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Comedy"
+      },
+      {
+        "genreName": "Drama"
+      },
+      {
+        "genreName": "Crime"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Tell Me That You Love Me",
+        "regionAbbrev": "GB"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0206504",
+        "primaryName": "Mark Day",
+        "category": "editor"
+      },
+      {
+        "nameID": "nm1707112",
+        "primaryName": "Judith Scott",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0000293",
+        "primaryName": "Sean Bean",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0928134",
+        "primaryName": "James Wilby",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0178357",
+        "primaryName": "Rowena Cooper",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0531640",
+        "primaryName": "Bruce MacDonald",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0388130",
+        "primaryName": "Adrian Hodges",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0193501",
+        "primaryName": "Sarah Curtis",
+        "category": "producer"
+      },
+      {
+        "nameID": "nm0175389",
+        "primaryName": "Bill Connor",
+        "category": "composer"
+      },
+      {
+        "nameID": "nm0569433",
+        "primaryName": "John McGlashan",
+        "category": "cinematographer"
+      }
+    ],
+    "rating": {
+      "avRating": "8.2",
+      "nVotes": "41"
+    }
+  },
+  {
+    "titleID": "tt0103145",
+    "type": "tvEpisode",
+    "original_title": "Two Teens and a Baby",
+    "titlePoster": null,
+    "startYear": "1992",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Comedy"
+      },
+      {
+        "genreName": "Drama"
+      },
+      {
+        "genreName": "Adventure"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Two Teens and a Baby",
+        "regionAbbrev": "US"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0252004",
+        "primaryName": "Sheri Eisenberg",
+        "category": "editor"
+      },
+      {
+        "nameID": "nm0130808",
+        "primaryName": "James Calvert",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0000585",
+        "primaryName": "Robert Picardo",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0265678",
+        "primaryName": "Sandy Faison",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0281234",
+        "primaryName": "Maureen Flannigan",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0247089",
+        "primaryName": "David J. Eagle",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0823451",
+        "primaryName": "Carol Starr Schneider",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0453147",
+        "primaryName": "Michael Killen",
+        "category": "producer"
+      },
+      {
+        "nameID": "nm0805813",
+        "primaryName": "Dan Slider",
+        "category": "composer"
+      },
+      {
+        "nameID": "nm0348362",
+        "primaryName": "Rick F. Gunter",
+        "category": "cinematographer"
+      }
+    ],
+    "rating": {
+      "avRating": "7.6",
+      "nVotes": "12"
+    }
+  },
+  {
+    "titleID": "tt0101838",
+    "type": "tvEpisode",
+    "original_title": "Yo-yo",
+    "titlePoster": null,
+    "startYear": "1991",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Comedy"
+      },
+      {
+        "genreName": "Crime"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Detective Extralarge: Yo Yo",
+        "regionAbbrev": "IT"
+      },
+      {
+        "akaTitle": "Yo-yo",
+        "regionAbbrev": "US"
+      },
+      {
+        "akaTitle": "Missão de Alto Risco",
+        "regionAbbrev": "PT"
+      },
+      {
+        "akaTitle": "XXL Detektivi: Jo Jo",
+        "regionAbbrev": "RS"
+      },
+      {
+        "akaTitle": "Yo-yo",
+        "regionAbbrev": null
+      },
+      {
+        "akaTitle": "Zwei Supertypen in Miami - Der Kleine mit der großen Klappe",
+        "regionAbbrev": "DE"
+      },
+      {
+        "akaTitle": "Detektyw Extralarge: Jo-jo",
+        "regionAbbrev": "PL"
+      },
+      {
+        "akaTitle": "Extralarge: Jo-Jo",
+        "regionAbbrev": "HU"
+      },
+      {
+        "akaTitle": "Campeão para Sempre",
+        "regionAbbrev": "BR"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0024842",
+        "primaryName": "Gianfranco Amicucci",
+        "category": "editor"
+      },
+      {
+        "nameID": "nm0817881",
+        "primaryName": "Bud Spencer",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0859365",
+        "primaryName": "Philip Michael Thomas",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0066040",
+        "primaryName": "Lou Bedford",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0749959",
+        "primaryName": "Vivian Ruiz",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0144758",
+        "primaryName": "Enzo G. Castellari",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0094730",
+        "primaryName": "Claudio Bonivento",
+        "category": "producer"
+      },
+      {
+        "nameID": "nm0669968",
+        "primaryName": "Giuseppe Pedersoli",
+        "category": "producer"
+      },
+      {
+        "nameID": "nm0723156",
+        "primaryName": "Enrico Riccardi",
+        "category": "composer"
+      },
+      {
+        "nameID": "nm0320952",
+        "primaryName": "Roberto Girometti",
+        "category": "cinematographer"
+      }
+    ],
+    "rating": {
+      "avRating": "5.7",
+      "nVotes": "233"
+    }
+  },
+  {
+    "titleID": "tt0099530",
+    "type": "tvEpisode",
+    "original_title": "Bersaglio mobile",
+    "titlePoster": null,
+    "startYear": "1991",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Comedy"
+      },
+      {
+        "genreName": "Crime"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "XXL Detektivi: Pokretna meta",
+        "regionAbbrev": "RS"
+      },
+      {
+        "akaTitle": "Detectiv cu greutate: Ţinta mişcătoare",
+        "regionAbbrev": "RO"
+      },
+      {
+        "akaTitle": "Extra Large: Deadly Object - Tödliches Ziel",
+        "regionAbbrev": "XWG"
+      },
+      {
+        "akaTitle": "Extralarge: Mozgó célpont",
+        "regionAbbrev": "HU"
+      },
+      {
+        "akaTitle": "Zwei Supertypen in Miami: Die Formel des Todes",
+        "regionAbbrev": "DE"
+      },
+      {
+        "akaTitle": "Bersaglio mobile",
+        "regionAbbrev": "US"
+      },
+      {
+        "akaTitle": "Bersaglio mobile",
+        "regionAbbrev": null
+      },
+      {
+        "akaTitle": "Alvo Móvel",
+        "regionAbbrev": "BR"
+      },
+      {
+        "akaTitle": "Detektyw Extralarge: Ruchomy cel",
+        "regionAbbrev": "PL"
+      },
+      {
+        "akaTitle": "Impagável Perseguição",
+        "regionAbbrev": "PT"
+      },
+      {
+        "akaTitle": "Alvo em Movimento",
+        "regionAbbrev": "BR"
+      },
+      {
+        "akaTitle": "Detective Extralarge: Bersaglio mobile",
+        "regionAbbrev": "IT"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0655826",
+        "primaryName": "Federico Padovan",
+        "category": "production_designer"
+      },
+      {
+        "nameID": "nm0817881",
+        "primaryName": "Bud Spencer",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0859365",
+        "primaryName": "Philip Michael Thomas",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0066040",
+        "primaryName": "Lou Bedford",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0749959",
+        "primaryName": "Vivian Ruiz",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0144758",
+        "primaryName": "Enzo G. Castellari",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0094730",
+        "primaryName": "Claudio Bonivento",
+        "category": "producer"
+      },
+      {
+        "nameID": "nm0723156",
+        "primaryName": "Enrico Riccardi",
+        "category": "composer"
+      },
+      {
+        "nameID": "nm0320952",
+        "primaryName": "Roberto Girometti",
+        "category": "cinematographer"
+      },
+      {
+        "nameID": "nm0219804",
+        "primaryName": "Marco Dentici",
+        "category": "production_designer"
+      }
+    ],
+    "rating": {
+      "avRating": "5.5",
+      "nVotes": "231"
+    }
+  },
+  {
+    "titleID": "tt0101274",
+    "type": "tvEpisode",
+    "original_title": "Una notte di mezza estate a Daisy Town",
+    "titlePoster": null,
+    "startYear": "1992",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Comedy"
+      },
+      {
+        "genreName": "Western"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Midsummer",
+        "regionAbbrev": null
+      },
+      {
+        "akaTitle": "Una notte di mezza estate a Daisy Town",
+        "regionAbbrev": null
+      },
+      {
+        "akaTitle": "The Adventures of Lucky Luke",
+        "regionAbbrev": null
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0093605",
+        "primaryName": "Lucio Bompani",
+        "category": "producer"
+      },
+      {
+        "nameID": "nm0001352",
+        "primaryName": "Terence Hill",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0604922",
+        "primaryName": "Nancy Morgan",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0818277",
+        "primaryName": "Fritz Sperberg",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0336480",
+        "primaryName": "Bo Greigh",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0606328",
+        "primaryName": "Morris",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0331453",
+        "primaryName": "René Goscinny",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0384484",
+        "primaryName": "Lori Hill",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0767124",
+        "primaryName": "Carl Sautter",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0281326",
+        "primaryName": "Courtney Flavin",
+        "category": "writer"
+      }
+    ],
+    "rating": {
+      "avRating": "6.8",
+      "nVotes": "72"
+    }
+  },
+  {
+    "titleID": "tt0102474",
+    "type": "tvEpisode",
+    "original_title": "Mrs. Harris und der Heiratsschwindler",
+    "titlePoster": "https://image.tmdb.org/t/p/original/ugqoJ1ayZa1sV5Hfj3qJy0i4lUW.jpg",
+    "startYear": "1991",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Comedy"
+      },
+      {
+        "genreName": "Crime"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Mrs. Harris und der Heiratsschwindler",
+        "regionAbbrev": "DE"
+      },
+      {
+        "akaTitle": "Mrs. Harris und der Heiratsschwindler",
+        "regionAbbrev": null
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0921433",
+        "primaryName": "Klaus Werner",
+        "category": "cinematographer"
+      },
+      {
+        "nameID": "nm0583734",
+        "primaryName": "Inge Meysel",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0562807",
+        "primaryName": "Ferdy Mayne",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0362506",
+        "primaryName": "Karin Hardt",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0221527",
+        "primaryName": "Ivan Desny",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0331964",
+        "primaryName": "Franz Josef Gottlieb",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0932477",
+        "primaryName": "Ted Willis",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0302904",
+        "primaryName": "Paul Gallico",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0116342",
+        "primaryName": "Karlheinz Brunnemann",
+        "category": "producer"
+      },
+      {
+        "nameID": "nm0714637",
+        "primaryName": "Hans Redlbach",
+        "category": "producer"
+      }
+    ],
+    "rating": {
+      "avRating": "4.2",
+      "nVotes": "13"
+    }
+  },
+  {
+    "titleID": "tt0101835",
+    "type": "tvEpisode",
+    "original_title": "Magia nera",
+    "titlePoster": null,
+    "startYear": "1991",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Comedy"
+      },
+      {
+        "genreName": "Crime"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Magia Negra",
+        "regionAbbrev": "BR"
+      },
+      {
+        "akaTitle": "XXL Detektivi: Crna magija",
+        "regionAbbrev": "RS"
+      },
+      {
+        "akaTitle": "Magia nera",
+        "regionAbbrev": null
+      },
+      {
+        "akaTitle": "Extralarge: Fekete mágia",
+        "regionAbbrev": "HU"
+      },
+      {
+        "akaTitle": "Extralarge: Fekete varázslat",
+        "regionAbbrev": "HU"
+      },
+      {
+        "akaTitle": "Detective Extralarge: Magia nera",
+        "regionAbbrev": "IT"
+      },
+      {
+        "akaTitle": "Zwei Supertypen in Miami - Extralarge gegen Tod und Teufel",
+        "regionAbbrev": "DE"
+      },
+      {
+        "akaTitle": "Detektyw Extralarge: Czarna magia",
+        "regionAbbrev": "PL"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0817881",
+        "primaryName": "Bud Spencer",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0859365",
+        "primaryName": "Philip Michael Thomas",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0066040",
+        "primaryName": "Lou Bedford",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0749959",
+        "primaryName": "Vivian Ruiz",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0144758",
+        "primaryName": "Enzo G. Castellari",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0604304",
+        "primaryName": "Sandro Moretti",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0669968",
+        "primaryName": "Giuseppe Pedersoli",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0739744",
+        "primaryName": "Gianni Romoli",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0320952",
+        "primaryName": "Roberto Girometti",
+        "category": "cinematographer"
+      }
+    ],
+    "rating": {
+      "avRating": "5.9",
+      "nVotes": "228"
+    }
+  },
+  {
+    "titleID": "tt0101971",
+    "type": "tvEpisode",
+    "original_title": "The Grapes of Wrath",
+    "titlePoster": "https://image.tmdb.org/t/p/original/fL5V6o7NdPIVTODNEnxbUiiXNnH.jpg",
+    "startYear": "1991",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Comedy"
+      },
+      {
+        "genreName": "Drama"
+      },
+      {
+        "genreName": "Romance"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "The Grapes of Wrath",
+        "regionAbbrev": "US"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0103231",
+        "primaryName": "Gary Bradley",
+        "category": "editor"
+      },
+      {
+        "nameID": "nm0000641",
+        "primaryName": "Gary Sinise",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0108066",
+        "primaryName": "Robert Breuler",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0186949",
+        "primaryName": "Ron Crawford",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0212636",
+        "primaryName": "Mark Deakins",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0115185",
+        "primaryName": "Kirk Browning",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0301715",
+        "primaryName": "Frank Galati",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0825705",
+        "primaryName": "John Steinbeck",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0111527",
+        "primaryName": "Michael Bronson",
+        "category": "producer"
+      },
+      {
+        "nameID": "nm0930964",
+        "primaryName": "John H. Williams",
+        "category": "producer"
+      }
+    ],
+    "rating": {
+      "avRating": "7.5",
+      "nVotes": "90"
+    }
+  }
+]

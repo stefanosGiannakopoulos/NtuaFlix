@@ -1,0 +1,30 @@
+.section-title-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    row-gap: 2rem;
+    column-gap: 1rem;
+    align-items: center;
+}
+.view-more-link {
+    color: var(--white);
+    /* font-size: var(--fs-5); */
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+}
+.view-more-link:hover {
+    cursor: pointer;
+    color: var(--citrine);
+    transition: all 0.2s ;
+}
+
+@keyframes scrollAnimation {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-50%); 
+    }
+  }

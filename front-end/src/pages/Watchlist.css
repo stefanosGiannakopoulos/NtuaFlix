@@ -1,0 +1,226 @@
+/* Watchlist.css */
+
+.watchlist-background {
+   min-height: 100vh;
+  width: 100%;
+  /*top: 0;
+  background-position: center;
+  background-size: 20%; 
+  background-repeat: no-repeat;
+  left: 0; */
+}
+
+.watchlists-navbar {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: center; 
+    flex-wrap: wrap;
+}
+  
+.watchlists-navbar a {
+    color: #fff;
+    text-decoration: none;
+    padding: 20px 40px;
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: none;
+    flex-direction: column; 
+    align-items: center; 
+}
+  
+  .watchlists-navbar a:hover {
+    border-bottom: 2px solid #fff;
+  } 
+
+  .watchlists-navbar a span {
+    font-size: 12px; 
+    font-style: italic; 
+    opacity: 0.6;
+}
+
+  .arrow-indicator {
+    color: #fff;
+    font-size: 18px;
+    margin-left: 5px; /* Adjust spacing between options and arrow */
+    cursor: pointer; /* Add pointer cursor to indicate it's clickable */
+  }
+
+  .arrow-indicator :hover{
+    border-bottom: 2px solid white;
+  }
+
+  .watchlist-title {
+    /* font-size: 60px; */
+    font-size: clamp(2.5rem, 3vw, 7rem);
+    font-weight: bold;
+    background: linear-gradient(45deg, #8E24AA, #9C27B0, #673AB7, #3F51B5, #2196F3);
+    background-clip: text;
+    color: transparent;
+    margin-bottom: 10px; 
+    padding: 100px 20px;
+  }
+
+.watchlist-icon{
+ height:150px;
+ width:150px;
+}
+
+  /*
+  @media only screen and (max-width: 768px) {
+    .watchlists-navbar {
+      padding: 16px 10px; 
+    }
+  
+    .watchlists-navbar a {
+      font-size: 20px;
+    }
+  
+    .arrow-indicator {
+      font-size: 16px; 
+    }
+  
+    .watchlist-title {
+      font-size: 20px; 
+      padding: 20px 10px; 
+    }
+    .addButton {
+      padding: 10px 15px; 
+      font-size: 12px; 
+    }
+  } */
+
+  /* Add this to your existing CSS */
+
+/*
+.create-input input {
+  position: fixed;
+  top: 91%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+  padding: 25px 18px;
+  background-color: rgba(142, 36, 170, 0.1);
+  color: #8E24AA;
+  border: 2px solid #8E24AA;
+  border-radius: 50px;
+  font-size: 18px;
+  transition: background-color 0.3s ease;
+}
+*/
+
+.addButton {
+  position: fixed;
+  top: 91%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  /* padding: 25px 18px; */
+  /* background-color: transparent; */
+  /* color: var(--purple);  */
+  /* border: 2px solid var(--purple);  */
+  /* border-radius: 50px; */
+  /* cursor: pointer; */
+  /* transition: background-color 0.3s ease; */
+  /* font-size: 18px;  */
+  /* font-weight: bold;  */
+
+}
+
+.addButton:hover {
+  /* background-color: var(--purple);  */
+  /* color: white;  */
+}
+
+.addButton:active {
+  /* background-color: var(--darker-purle);  */
+  /* border-color: var(--darker-purle);  */
+}
+
+.create-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: fixed;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: linear-gradient(45deg, #8E24AA, #9C27B0, #673AB3);
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.create-input {
+  margin-bottom: 10px;
+  padding: 15px 15px;
+  background-color: white; /* White background color */
+  color: var(--darker-purle);
+  border: none; 
+  border-radius: 20px;
+  font-size: 14px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.create-buttons {
+  display: flex;
+  justify-content: space-between;
+}
+
+.create-button {
+  margin-right: 10px;
+  padding: 10px 15px;
+  font-size: 16px;
+  border-color: var(--darker-purle);
+  border-radius: 30px;
+  cursor: pointer;
+  background-color: white;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  color: var(--darker-purle);
+}
+
+.create-button:hover {
+  background-color: var(--darker-purle);
+  color: white;
+}
+
+.create-button:active {
+  background-color: var(--darker-purle);
+  border-color: var(--darker-purle);
+}
+
+  @media screen and (max-width: 800px) {
+  .watchlist-background {
+    background-size: 50%;
+  }
+} 
+@media (max-width: 768px) {
+  .watchlists-navbar a {
+      padding: 15px 10px; 
+      font-size: 14px; 
+  }
+
+  .watchlist-title {
+      font-size: clamp(1.5rem, 4vw, 5rem); 
+      padding: 60px 20px; 
+  }
+
+  .addButton {
+      font-size: 11px; 
+      padding: 6px 12px; 
+      bottom: 8px; 
+  }
+
+  .create-input {
+      padding: 8px 8px; 
+      font-size: 10px; 
+  }
+
+  .create-button {
+      padding: 6px 10px; 
+      font-size: 11px; 
+  }
+
+  .watchlist-icon {
+    width: 100px;
+    height:100px;
+  }
+}

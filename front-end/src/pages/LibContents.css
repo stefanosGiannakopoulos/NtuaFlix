@@ -1,0 +1,318 @@
+.watchlist-container {
+  /* margin-right: 100px; */
+  /* margin-left: 20px; */
+  margin: 0 auto;
+  border: 2px solid #8E24AA; /* Purple border */
+  border-radius: 20px;
+  overflow: hidden; /* Ensure border-radius is applied to the table */
+  max-width: 1500px;
+}
+
+.watchlist-table {
+  margin-left: auto;
+  margin-right: auto;
+  /* width: 100%; */
+  border-collapse: collapse;
+  text-align: center;
+}
+
+.watchlist-table th,
+.watchlist-table td {
+  padding: 30px;
+  color:whitesmoke;
+}
+
+.watchlist-table th {
+  background: transparent;
+  color: #8E24AA;
+}
+
+.even-row {
+  color:antiquewhite;
+  background-color: rgba(142, 36, 170, 0.15);
+}
+
+.odd-row {
+  color:antiquewhite;
+  background-color: rgba(142, 36, 170, 0);
+}
+
+.watchlist-table tbody tr:hover {
+  background-color: #8E24AA; /* Slightly darker background on hover */
+}
+
+.delete-button {
+  background: none;
+  color: #FF0000; /* Red text */
+  border: none;
+  cursor: pointer;
+  font-size: 25px;
+}
+
+.delete-button:hover {
+  text-decoration: bold; /* Underline on hover */
+}
+
+.poster-prev{
+  width: 70px;  
+  height: 70px; 
+  object-fit: cover; 
+  border-radius: 20%; 
+}
+
+.watchlist-table {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+.watchlist-table th,
+.watchlist-table td {
+  padding: 30px;
+  color:whitesmoke;
+}
+
+.watchlist-table th {
+  background: transparent;
+  color: #8E24AA;
+}
+
+.even-row {
+  color:antiquewhite;
+  background-color: rgba(142, 36, 170, 0.15);
+}
+
+.odd-row {
+  color:antiquewhite;
+  background-color: rgba(142, 36, 170, 0);
+}
+
+.watchlist-table tbody tr:hover {
+  background-color: #8E24AA; /* Slightly darker background on hover */
+}
+
+.delete-button {
+  background: none;
+  color: #FF0000; /* Red text */
+  border: none;
+  cursor: pointer;
+  font-size: 25px;
+}
+
+.delete-button:hover {
+  text-decoration: bold; /* Underline on hover */
+}
+
+.poster-prev{
+  width: 70px;  
+  height: 70px; 
+  object-fit: cover; 
+  border-radius: 20%; 
+}
+
+.watchlist-title {
+  /* font-size: 60px; */
+  font-size: clamp(2rem, 2vw, 5rem);
+  font-weight: bold;
+  background: linear-gradient(45deg, #8E24AA, #9C27B0, #673AB7, #3F51B5, #2196F3);
+  background-clip: text;
+  color: transparent;
+  margin-bottom: 1px; 
+  padding: 100px 20px;
+  max-width: 1100px;
+}
+
+.add-movie {
+  /* position: relative;  */
+  /* left: 10%; */
+  /* transform: translateX(-50%); */
+  /* margin-top: 20px; */
+  /* transform: translate(-50%, -50%); */
+  /* padding: 20px 15px; */
+  /* background-color: transparent; */
+  /* color: var(--purple); */
+  /* border: 2px solid var(--purple); */
+  /* border-radius: 50px; */
+  /* cursor: pointer; */
+  transition: background-color 0.3s ease;
+  /* font-size: 16px;  */
+  /* font-weight: bold;  */
+}
+
+
+.add-movie:hover {
+  /* background-color: var(--purple); Purple background on hover */
+  /* color: white; White text on hover */
+}
+
+.add-movie:active {
+  /* background-color: var(--darker-purple); Darker purple on click */
+  /* border-color: var(--darker-purple); Darker purple border on click */
+}
+
+.remove-lib {
+  /*position: fixed;
+  top: 10%;
+  left: 80%;
+  transform: translate(-50%, -50%);
+  /* padding: 20px 15px; */
+  /* background-color: transparent; */
+  color: var(--error);
+  border: 2px solid var(--error);
+  /* border-radius: 50px; */
+  /* cursor: pointer; */
+  transition: background-color 0.3s ease;
+  /* font-size: 14px;  */
+  /* font-weight: bold;  */
+  /* position: relative;  */
+  /* left: 73%; */
+  
+  /* transform: translateY(-90%); */
+
+}
+
+.remove-lib:hover {
+  background-color: var(--error);
+  color: #fff;
+}
+
+.remove-lib:active {
+  background-color: var(--darker-purple);
+  border-color: var(--darker-purple);
+}
+
+.button-align-center {
+  display: flex;
+  flex-direction: row;
+  column-gap: 5px;
+  align-items: center;
+}
+
+.watchlist-button-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 90%;
+  margin: 1rem auto;
+  flex-wrap: wrap;
+  row-gap: 1rem;
+}
+
+.vertical-form-container {
+  /* position: relative; */
+  /* left: 30%; */
+  /* transform: translateY(-120%); */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 20px;
+  border: 2px solid #8E24AA;
+  border-radius: 20px;
+  text-align: center;
+  max-width: fit-content;
+}
+
+.vertical-form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.vertical-form input {
+  width: 200px;
+  padding: 5px;
+  margin-bottom: 10px;
+  border:none;
+  background: local;
+  font-size: 16px;
+  color: white;
+}
+
+.vertical-form button {
+  padding: 10px;
+  background-color: #8E24AA;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.image-container {
+  margin-top: 50px;
+  margin-inline:auto;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  /* position: relative; */
+  /* left: 35%; */
+  /* top: 20%; */
+  max-width:fit-content;
+  /* transform: translateY(-50%); */
+}
+
+.image-container img {
+  max-width: 100%;
+  height: auto;
+  margin-inline: auto;
+  width: 130px; 
+  height: 130px; 
+  object-fit: cover; 
+  margin-top: 10px; 
+}
+
+.add-movie-btn {
+  background-color: #8E24AA;
+  color: #fff;
+  border: 1px solid #8E24AA;
+  border-radius: 20px;
+  cursor: pointer;
+  padding: 5px 10px;
+  margin-top: 10px; 
+}
+
+.image-border {
+  border: 1px solid #8E24AA;
+  padding: 10px;
+  border-radius: 10px;
+}
+.movie-table {
+  text-align: left;
+  text-decoration: none;
+  color: #fff;
+}
+
+@media (max-width: 768px) {
+  .watchlist-container{
+    max-width: 90%;
+  }
+  .watchlist-table th,
+  .watchlist-table td {
+      padding: 16px; 
+  }
+
+  .delete-button {
+      font-size: 18px; 
+  }
+
+  .poster-prev {
+      width: 40px; 
+      height: 40px; 
+  }
+
+  .watchlist-title {
+      font-size: clamp(1rem, 3vw, 4rem); 
+      padding: 20px 20px; 
+      margin-top: 100px;
+  }
+
+  .add-movie {
+      font-size: 10px; 
+      padding: 6px 9px; 
+  }
+
+  .remove-lib {
+      font-size: 11px; 
+      padding: 6px 9px; 
+  }
+}

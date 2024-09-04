@@ -1,0 +1,51 @@
+.watchlist-container {
+  margin-left: 20px;
+  margin-top: 10px;
+  border: 2px solid #8E24AA; /* Purple border */
+  border-radius: 20px;
+  overflow: hidden; /* Ensure border-radius is applied to the table */
+  max-width: 1000px;
+}
+
+.watchlist-table {
+  margin-left: auto; /* Move the table to the right */
+  margin-right: auto;
+  width: 100%; /* Adjust the width of the table */
+  border-collapse: collapse;
+  text-align: center;
+}
+
+.watchlist-table th,
+.watchlist-table td {
+  padding: 30px;
+  
+}
+
+.watchlist-table th {
+  background: transparent;
+  color: #8E24AA;
+}
+
+.even-row {
+  background-color: rgba(142, 36, 170, 0.15);
+}
+
+.odd-row {
+  background-color: rgba(142, 36, 170, 0);
+}
+
+.watchlist-table tbody tr:hover {
+  background-color: #8E24AA; /* Slightly darker background on hover */
+}
+
+.delete-button {
+  background: none;
+  color: #FF0000; /* Red text */
+  border: none;
+  cursor: pointer;
+  font-size: 25px;
+}
+
+.delete-button:hover {
+  text-decoration: bold; /* Underline on hover */
+}

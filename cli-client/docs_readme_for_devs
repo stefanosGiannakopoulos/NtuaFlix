@@ -1,0 +1,9 @@
+Προκειμένου να φτιάξουμε τα docs του cli, θέλουμε το typer-cli.
+Στην ιστοσελίδα του λέει να το βάλουμε με pip install typer-cli.
+Αλλά το pip έχει μια παλιά έκδοση που απαιτεί και παλιά έκδοση του typer και εν τέλει δεν δουλεύει.
+
+Για αυτό κατεβάζουμε την τελευταία έκδοση του typer-cli από το GitHub του: https://github.com/tiangolo/typer-cli
+Αντιγράφουμε τον φάκελο typer_cli του repo αυτό στον παρόντα φάκελο.
+Και τρέχουμε python3 -m typer_cli cli.py docs utils.
+Στο stdout θα μας δείξει σε μορφή τύπου markdown (όπως συνήθως το readme.md) τα docs για το cli.
+

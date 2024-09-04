@@ -1,0 +1,21 @@
+[project]
+name = "ntuaflix-cli"
+description = "CLI Manager for NTUAflix"
+version = "0.1.0"
+readme = "README.md"
+dependencies = [
+	"typer[all]",
+	"requests"
+]
+authors = [{name="softeng23-34"}]
+requires-python = ">=3.10"
+
+[project.scripts]
+ntuaflix-cli = "ntuaflix_cli:app"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+#tool.pytest.ini_options]
+#ythonpath = "n

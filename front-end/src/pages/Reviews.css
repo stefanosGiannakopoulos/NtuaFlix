@@ -1,0 +1,75 @@
+.theme {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.72), rgba(0, 0, 0, 0.1)), url('../assets/images/review-star-optimized.jpeg') center/cover no-repeat;
+    width: 100%;
+    /* position: absolute; */
+    /* top: 0; */
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100%; 
+    background-repeat: no-repeat;
+    left: 0;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.reviews-navbar {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: center; 
+    flex-wrap: wrap;
+    /* margin-top: 6%; */
+    padding-top: 6%;
+  }
+  
+  .reviews-navbar a {
+    text-decoration: none;
+    padding: 20px;
+    /* font-size: 40px; */
+    font-size: clamp(2rem, 2.2vw, 7rem);
+    font-weight: bold;
+    text-transform: none;
+    flex-direction: column; 
+    align-items: center; 
+    color: rgb(162, 16, 206);
+  }
+  
+.reviews-navbar a:hover {
+  border-bottom: 2px solid rgb(162, 16, 206);
+} 
+
+.filter-reviews {
+  position: relative;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+.filter-reviews input {
+  border: 2px solid rgb(162, 16, 206);
+  border-radius: 10px;
+  width: 300px;
+  height: 40px;
+}
+
+@media screen and (max-width:1350px) {
+  .reviews-navbar {
+    padding-top:10%
+  }
+}
+
+
+@media screen and (max-width: 688px) {
+  .reviews-navbar {
+    padding-top:15%;
+    flex-direction: column;
+  }
+  .reviews-navbar a {
+    padding: 10px;
+  }
+}
+
+@media screen and (max-width: 432px) {
+  .reviews-navbar {
+    padding-top:30%;
+  }
+}

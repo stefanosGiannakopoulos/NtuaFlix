@@ -1,0 +1,1236 @@
+[
+  {
+    "nameID": "nm0005948",
+    "name": "Jorge Arriagada",
+    "namePoster": "https://image.tmdb.org/t/p/original/zf99gSiTF63GgOhRNYsEp4j8czk.jpg",
+    "birthYr": "1943",
+    "deathYr": null,
+    "profession": "actor,composer,soundtrack",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0099027",
+        "category": "composer"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0006841",
+    "name": "Udayan Prasad",
+    "namePoster": null,
+    "birthYr": "1953",
+    "deathYr": null,
+    "profession": "actor,director,producer",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0100770",
+        "category": "director"
+      },
+      {
+        "titleID": "tt0101246",
+        "category": "director"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0010383",
+    "name": "Aleksandr Adabashyan",
+    "namePoster": "https://image.tmdb.org/t/p/original/tg4xDyA8U8Snf4xmdxfM0wSithX.jpg",
+    "birthYr": "1945",
+    "deathYr": null,
+    "profession": "actor,production_designer,writer",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0097802",
+        "category": "director"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0010627",
+    "name": "Witold Adamek",
+    "namePoster": "https://image.tmdb.org/t/p/original/6i083fu0A7S9vCXTCJSZrUx2KiJ.jpg",
+    "birthYr": "1945",
+    "deathYr": "2017",
+    "profession": "camera_department,cinematographer,director",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0097644",
+        "category": "cinematographer"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0011147",
+    "name": "Lew V. Adams",
+    "namePoster": null,
+    "birthYr": null,
+    "deathYr": null,
+    "profession": "camera_department,cinematographer,producer",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0098372",
+        "category": "cinematographer"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0206913",
+    "name": "Acácio de Almeida",
+    "namePoster": "https://image.tmdb.org/t/p/original/yB1mU5Sj7CYKOtXTstMQ8MwWMx8.jpg",
+    "birthYr": "1938",
+    "deathYr": null,
+    "profession": "camera_department,cinematographer,producer",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0097803",
+        "category": "cinematographer"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0261493",
+    "name": "José Esteban Alenda",
+    "namePoster": "https://image.tmdb.org/t/p/original/aJu1iAEZd9FdbOaLzaFCUrSwiKd.jpg",
+    "birthYr": null,
+    "deathYr": null,
+    "profession": "director,producer,writer",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0096817",
+        "category": "actor"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0320303",
+    "name": "Rocky Giordani",
+    "namePoster": "https://image.tmdb.org/t/p/original/e0ImN9JDh66BIdG65rpc1cr2o2l.jpg",
+    "birthYr": null,
+    "deathYr": null,
+    "profession": "actor",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0098994",
+        "category": "actor"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0323795",
+    "name": "Jim Goddard",
+    "namePoster": null,
+    "birthYr": "1936",
+    "deathYr": "2013",
+    "profession": "director,production_designer,writer",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0102281",
+        "category": "director"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0356546",
+    "name": "David Halliday",
+    "namePoster": null,
+    "birthYr": null,
+    "deathYr": null,
+    "profession": "editor",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0096954",
+        "category": "editor"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0437482",
+    "name": "Ryûnosuke Kaneda",
+    "namePoster": "https://image.tmdb.org/t/p/original/orr54wTW97TgHZ4HRyHRgVywlIn.jpg",
+    "birthYr": "1928",
+    "deathYr": "2009",
+    "profession": "actor",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0098972",
+        "category": "actor"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0438854",
+    "name": "Karamana Janardanan Nair",
+    "namePoster": null,
+    "birthYr": null,
+    "deathYr": null,
+    "profession": "actor",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0097851",
+        "category": "actor"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0447559",
+    "name": "Peter Kendal",
+    "namePoster": null,
+    "birthYr": null,
+    "deathYr": null,
+    "profession": "producer",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0101894",
+        "category": "producer"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0492220",
+    "name": "Adam LaVorgna",
+    "namePoster": "https://image.tmdb.org/t/p/original/hWZuLvqVIPRQGbpkDbgsVv1Drbt.jpg",
+    "birthYr": "1981",
+    "deathYr": null,
+    "profession": "actor,soundtrack",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0101480",
+        "category": "actor"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0575381",
+    "name": "Júlio Medaglia",
+    "namePoster": null,
+    "birthYr": "1938",
+    "deathYr": null,
+    "profession": "actor,composer,music_department",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0091899",
+        "category": "composer"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0677681",
+    "name": "Bozhidar Petkov",
+    "namePoster": null,
+    "birthYr": "1940",
+    "deathYr": "2015",
+    "profession": "composer,music_department",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0098542",
+        "category": "composer"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0740168",
+    "name": "Linda Ronstadt",
+    "namePoster": "https://image.tmdb.org/t/p/original/zwcyYa9VDDzzVg08eX8ITKxZ0Td.jpg",
+    "birthYr": "1946",
+    "deathYr": null,
+    "profession": "actress,music_artist,soundtrack",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0102644",
+        "category": "actress"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0748577",
+    "name": "Pavel Rudakov",
+    "namePoster": "https://image.tmdb.org/t/p/original/qSqxpd8EccKj1FC7ziP89sL6rdI.jpg",
+    "birthYr": null,
+    "deathYr": null,
+    "profession": "actor",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0096992",
+        "category": "actor"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0749113",
+    "name": "Francis Rueda",
+    "namePoster": null,
+    "birthYr": "1949",
+    "deathYr": null,
+    "profession": "actress",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0095394",
+        "category": "actress"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0755409",
+    "name": "Stanislav Sadalskiy",
+    "namePoster": "https://image.tmdb.org/t/p/original/I7kSSlXG8BqeXUWXu4umUysz6r.jpg",
+    "birthYr": "1951",
+    "deathYr": null,
+    "profession": "actor,soundtrack",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0098988",
+        "category": "actor"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0757854",
+    "name": "Theresa Saldana",
+    "namePoster": "https://image.tmdb.org/t/p/original/VWTUbbQQX1Sq1b8AIwbXDuT93u.jpg",
+    "birthYr": "1954",
+    "deathYr": "2016",
+    "profession": "actress",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0099039",
+        "category": "actress"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0780686",
+    "name": "Adam Searle",
+    "namePoster": null,
+    "birthYr": null,
+    "deathYr": null,
+    "profession": "actor",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0100724",
+        "category": "actor"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0783978",
+    "name": "Leda Semyonova",
+    "namePoster": null,
+    "birthYr": null,
+    "deathYr": null,
+    "profession": "animation_department,editor,script_department",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0093572",
+        "category": "editor"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0787614",
+    "name": "Yuriy Shaygardanov",
+    "namePoster": null,
+    "birthYr": "1954",
+    "deathYr": null,
+    "profession": "camera_department,cinematographer",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0096984",
+        "category": "cinematographer"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0792227",
+    "name": "Michael J. Sheridan",
+    "namePoster": null,
+    "birthYr": null,
+    "deathYr": null,
+    "profession": "director,editor,editorial_department",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0097298",
+        "category": "editor"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0000372",
+    "name": "Amanda Donohoe",
+    "namePoster": "https://image.tmdb.org/t/p/original/f7s1GhnJMfGJEReVtMRQC6Tju5V.jpg",
+    "birthYr": "1962",
+    "deathYr": null,
+    "profession": "actress,producer",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0099992",
+        "category": "actress"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0001669",
+    "name": "Miranda Richardson",
+    "namePoster": "https://image.tmdb.org/t/p/original/2IEW3fxqHb4AHBl5xU8JuipJbNK.jpg",
+    "birthYr": "1958",
+    "deathYr": null,
+    "profession": "actress,soundtrack",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0073481",
+        "category": "actress"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0001767",
+    "name": "Imelda Staunton",
+    "namePoster": "https://image.tmdb.org/t/p/original/tABRYOHUQeaUCAqrelJV5ZHjl1W.jpg",
+    "birthYr": "1956",
+    "deathYr": null,
+    "profession": "actress,soundtrack",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0101358",
+        "category": "actress"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0001820",
+    "name": "Abe Vigoda",
+    "namePoster": "https://image.tmdb.org/t/p/original/luWKPNb58IgJ2ovrtgPAzHGLLYL.jpg",
+    "birthYr": "1921",
+    "deathYr": "2016",
+    "profession": "actor",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0097655",
+        "category": "actor"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0003909",
+    "name": "Michael Lonsdale",
+    "namePoster": "https://image.tmdb.org/t/p/original/lQZktsBj1CFbIEIpXOZp55kCiB5.jpg",
+    "birthYr": "1931",
+    "deathYr": "2020",
+    "profession": "actor,soundtrack,writer",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0102378",
+        "category": "actor"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0005301",
+    "name": "Amanda Pays",
+    "namePoster": "https://image.tmdb.org/t/p/original/ryDAKAA5bR8dqB7rDp7pDvTqT7z.jpg",
+    "birthYr": "1959",
+    "deathYr": null,
+    "profession": "actress",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0099580",
+        "category": "actress"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0025389",
+    "name": "Sadashiv Amrapurkar",
+    "namePoster": "https://image.tmdb.org/t/p/original/5ppazNZPQjlR1IRM0DyN3Kf3hfd.jpg",
+    "birthYr": "1950",
+    "deathYr": "2014",
+    "profession": "actor,music_department,writer",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0096775",
+        "category": "actor"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0046328",
+    "name": "Bogdan Baer",
+    "namePoster": "https://image.tmdb.org/t/p/original/7lnWBUwuM6zA4U3UE6bJ7qKLh3K.jpg",
+    "birthYr": "1926",
+    "deathYr": "2002",
+    "profession": "actor",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0098920",
+        "category": "actor"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0051866",
+    "name": "Brenda Banet",
+    "namePoster": null,
+    "birthYr": null,
+    "deathYr": null,
+    "profession": "actress,miscellaneous,set_decorator",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0096883",
+        "category": "actress"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0054171",
+    "name": "Ann Louise Bardach",
+    "namePoster": null,
+    "birthYr": null,
+    "deathYr": null,
+    "profession": "actress,writer",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0096875",
+        "category": "writer"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0065352",
+    "name": "Belinda Becker",
+    "namePoster": null,
+    "birthYr": null,
+    "deathYr": null,
+    "profession": "actress,camera_department,producer",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0096817",
+        "category": "actress"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0094088",
+    "name": "Boris Bondarenko",
+    "namePoster": null,
+    "birthYr": "1940",
+    "deathYr": null,
+    "profession": "camera_department,cinematographer",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0096858",
+        "category": "cinematographer"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0103655",
+    "name": "Jordan Brady",
+    "namePoster": null,
+    "birthYr": "1964",
+    "deathYr": null,
+    "profession": "actor,director,producer",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0099661",
+        "category": "actor"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0120906",
+    "name": "Jirí Burda",
+    "namePoster": null,
+    "birthYr": "1956",
+    "deathYr": null,
+    "profession": "actor,miscellaneous,writer",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0102925",
+        "category": "actor"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0845785",
+    "name": "T. Damodaran",
+    "namePoster": null,
+    "birthYr": "1935",
+    "deathYr": "2012",
+    "profession": "actor,music_department,writer",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0092507",
+        "category": "writer"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0279377",
+    "name": "Ardan Fisher",
+    "namePoster": null,
+    "birthYr": null,
+    "deathYr": null,
+    "profession": "director,editor,editorial_department",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0099952",
+        "category": "editor"
+      },
+      {
+        "titleID": "tt0100642",
+        "category": "editor"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0301145",
+    "name": "Leonid Gaidai",
+    "namePoster": "https://image.tmdb.org/t/p/original/cpOU6ajiRFPfqiYjbEdpBUDjg5Q.jpg",
+    "birthYr": "1923",
+    "deathYr": "1993",
+    "profession": "actor,director,writer",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0097049",
+        "category": "director"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0332417",
+    "name": "Dardano Sacchetti",
+    "namePoster": "https://image.tmdb.org/t/p/original/xeyu6lv0DT3LBZOPCx7IvkXGPPW.jpg",
+    "birthYr": "1944",
+    "deathYr": null,
+    "profession": "actor,assistant_director,writer",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0094004",
+        "category": "writer"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0348039",
+    "name": "Natalya Gundareva",
+    "namePoster": "https://image.tmdb.org/t/p/original/vNwlYHgSiTQdDuZx0xgVuYKgCc9.jpg",
+    "birthYr": "1948",
+    "deathYr": "2005",
+    "profession": "actress,soundtrack",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0098030",
+        "category": "actress"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0376316",
+    "name": "Adam Henderson",
+    "namePoster": "https://image.tmdb.org/t/p/original/hHsY7sPAH8o14SbgRScYE0wRwSs.jpg",
+    "birthYr": null,
+    "deathYr": null,
+    "profession": "actor,miscellaneous",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0088657",
+        "category": "actor"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0393111",
+    "name": "Toshiyuki Honda",
+    "namePoster": null,
+    "birthYr": "1957",
+    "deathYr": null,
+    "profession": "composer,music_department,soundtrack",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0098972",
+        "category": "composer"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0407276",
+    "name": "Taka Guadalcanal",
+    "namePoster": "https://image.tmdb.org/t/p/original/2IyZ3bcyflXPK02zLDDTBAv2klJ.jpg",
+    "birthYr": "1956",
+    "deathYr": null,
+    "profession": "actor",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0098967",
+        "category": "actor"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0410942",
+    "name": "Yuriko Ishida",
+    "namePoster": "https://image.tmdb.org/t/p/original/cADoBCi603Chz2IaxcwWT2mNwCf.jpg",
+    "birthYr": "1969",
+    "deathYr": null,
+    "profession": "actress",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0098967",
+        "category": "actress"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0413559",
+    "name": "Glenda Jackson",
+    "namePoster": "https://image.tmdb.org/t/p/original/8Sgtu9MyOQ4O0h51WSEG47i1OGG.jpg",
+    "birthYr": "1936",
+    "deathYr": "2023",
+    "profession": "actress,soundtrack",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0097668",
+        "category": "actress"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0419685",
+    "name": "Jaya Prada",
+    "namePoster": "https://image.tmdb.org/t/p/original/jD3BDABDH36vYPaQrI3PFWM9KJ9.jpg",
+    "birthYr": "1962",
+    "deathYr": null,
+    "profession": "actress,music_department,producer",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0098461",
+        "category": "actress"
+      },
+      {
+        "titleID": "tt0098976",
+        "category": "actress"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0452317",
+    "name": "Adam Kidron",
+    "namePoster": null,
+    "birthYr": null,
+    "deathYr": null,
+    "profession": "composer,producer,soundtrack",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0096405",
+        "category": "composer"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0468957",
+    "name": "Linda Kozlowski",
+    "namePoster": "https://image.tmdb.org/t/p/original/7cNYsKQmgRGjYZJPVjK01Xp2cVr.jpg",
+    "birthYr": "1958",
+    "deathYr": null,
+    "profession": "actress",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0099018",
+        "category": "actress"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0473742",
+    "name": "Laxmikant Shantaram Kudalkar",
+    "namePoster": null,
+    "birthYr": "1937",
+    "deathYr": "1998",
+    "profession": "composer,music_department,soundtrack",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0098999",
+        "category": "composer"
+      },
+      {
+        "titleID": "tt0099025",
+        "category": "composer"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0498752",
+    "name": "Edda Leesch",
+    "namePoster": "https://image.tmdb.org/t/p/original/4dXELZtxzDHY4qoSt4aXf6VGRoT.jpg",
+    "birthYr": "1962",
+    "deathYr": null,
+    "profession": "actress,writer",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0100748",
+        "category": "actress"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0511300",
+    "name": "Thomas Lindahl",
+    "namePoster": null,
+    "birthYr": "1953",
+    "deathYr": null,
+    "profession": "actor,composer,music_department",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0097310",
+        "category": "composer"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0514045",
+    "name": "Eda Lishman",
+    "namePoster": null,
+    "birthYr": null,
+    "deathYr": null,
+    "profession": "director,producer,production_manager",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0095902",
+        "category": "director"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0619853",
+    "name": "Zdzislaw Najda",
+    "namePoster": null,
+    "birthYr": "1954",
+    "deathYr": null,
+    "profession": "actor,camera_department,cinematographer",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0097833",
+        "category": "cinematographer"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0633457",
+    "name": "Amanda Noar",
+    "namePoster": null,
+    "birthYr": "1962",
+    "deathYr": null,
+    "profession": "actress",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0097550",
+        "category": "actress"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0689139",
+    "name": "Yehuda Poliker",
+    "namePoster": "https://image.tmdb.org/t/p/original/j1nDyqWNrqzLkfjgOhj5UBb4kzs.jpg",
+    "birthYr": "1950",
+    "deathYr": null,
+    "profession": "actor,composer,soundtrack",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0098993",
+        "category": "composer"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0698184",
+    "name": "Priyadarshan",
+    "namePoster": "https://image.tmdb.org/t/p/original/gBaSTf0XL0mKj0iYZcYix4OTMyG.jpg",
+    "birthYr": "1957",
+    "deathYr": null,
+    "profession": "director,music_department,writer",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0092507",
+        "category": "director"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0709527",
+    "name": "Addison Randall",
+    "namePoster": null,
+    "birthYr": "1949",
+    "deathYr": null,
+    "profession": "actor,assistant_director,writer",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0095840",
+        "category": "director"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0710755",
+    "name": "Gino Rapisarda",
+    "namePoster": null,
+    "birthYr": null,
+    "deathYr": null,
+    "profession": "actor,music_department,writer",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0103051",
+        "category": "writer"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0712035",
+    "name": "Toomas Raudam",
+    "namePoster": null,
+    "birthYr": "1947",
+    "deathYr": null,
+    "profession": "script_department,writer",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0097578",
+        "category": "writer"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0793984",
+    "name": "Noboru Shinoda",
+    "namePoster": null,
+    "birthYr": "1952",
+    "deathYr": "2004",
+    "profession": "camera_department,cinematographer",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0098548",
+        "category": "cinematographer"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0812827",
+    "name": "Mario Soldati",
+    "namePoster": "https://image.tmdb.org/t/p/original/xwgrkSKa4nNRguf60uHcKH485tT.jpg",
+    "birthYr": "1906",
+    "deathYr": "1999",
+    "profession": "actor,director,writer",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0097803",
+        "category": "writer"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0830775",
+    "name": "Gary Stockdale",
+    "namePoster": null,
+    "birthYr": null,
+    "deathYr": null,
+    "profession": "composer,music_department,soundtrack",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0097184",
+        "category": "composer"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0841346",
+    "name": "Milan Svoboda",
+    "namePoster": "https://image.tmdb.org/t/p/original/70yHpwUchc4pUC1D8uV4WWXXZQd.jpg",
+    "birthYr": "1951",
+    "deathYr": null,
+    "profession": "actor,composer,soundtrack",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0099370",
+        "category": "composer"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0860681",
+    "name": "Sada Thompson",
+    "namePoster": "https://image.tmdb.org/t/p/original/2tSgEpYRbiUZ8xxQiyu99XrS5YX.jpg",
+    "birthYr": "1927",
+    "deathYr": "2011",
+    "profession": "actress",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0099037",
+        "category": "actress"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0863867",
+    "name": "Joan Tindale",
+    "namePoster": null,
+    "birthYr": null,
+    "deathYr": null,
+    "profession": "writer",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0101750",
+        "category": "writer"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0884841",
+    "name": "Juan Andrés Valladares",
+    "namePoster": null,
+    "birthYr": null,
+    "deathYr": null,
+    "profession": "cinematographer",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0096860",
+        "category": "cinematographer"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0891396",
+    "name": "Marià Vayreda",
+    "namePoster": null,
+    "birthYr": null,
+    "deathYr": null,
+    "profession": "writer",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0098144",
+        "category": "writer"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0901562",
+    "name": "Nondas Voll",
+    "namePoster": null,
+    "birthYr": null,
+    "deathYr": null,
+    "profession": "miscellaneous,producer,sound_department",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0100948",
+        "category": "producer"
+      }
+    ]
+  },
+  {
+    "nameID": "nm0954729",
+    "name": "Wanda Zeman",
+    "namePoster": null,
+    "birthYr": "1952",
+    "deathYr": "2012",
+    "profession": "editor,editorial_department,music_department",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0096879",
+        "category": "editor"
+      }
+    ]
+  },
+  {
+    "nameID": "nm1140287",
+    "name": "Ada Petrova",
+    "namePoster": null,
+    "birthYr": null,
+    "deathYr": null,
+    "profession": "writer",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0098990",
+        "category": "writer"
+      }
+    ]
+  },
+  {
+    "nameID": "nm11763727",
+    "name": "Mikkjal Helmsdal",
+    "namePoster": null,
+    "birthYr": null,
+    "deathYr": null,
+    "profession": "actor",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0096845",
+        "category": "actor"
+      }
+    ]
+  },
+  {
+    "nameID": "nm1221910",
+    "name": "Nacho Sáenz de Tejada",
+    "namePoster": null,
+    "birthYr": null,
+    "deathYr": null,
+    "profession": "composer,music_department",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0097924",
+        "category": "composer"
+      }
+    ]
+  },
+  {
+    "nameID": "nm1230714",
+    "name": "Bozena Adamek",
+    "namePoster": "https://image.tmdb.org/t/p/original/aAo1wVbbp76gdvQPVSesHHYWA6c.jpg",
+    "birthYr": "1952",
+    "deathYr": null,
+    "profession": "actress",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0097683",
+        "category": "actress"
+      }
+    ]
+  },
+  {
+    "nameID": "nm1295333",
+    "name": "Mankada Ravi Varma",
+    "namePoster": null,
+    "birthYr": null,
+    "deathYr": null,
+    "profession": "camera_department,cinematographer,director",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0097851",
+        "category": "cinematographer"
+      }
+    ]
+  },
+  {
+    "nameID": "nm1343309",
+    "name": "Víctor Hugo Rascón Banda",
+    "namePoster": null,
+    "birthYr": "1948",
+    "deathYr": "2008",
+    "profession": "writer",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0097912",
+        "category": "writer"
+      }
+    ]
+  },
+  {
+    "nameID": "nm1352428",
+    "name": "Adam Baumann",
+    "namePoster": "https://image.tmdb.org/t/p/original/a2CUTu6aplKjncMJOL0LpHbQMlh.jpg",
+    "birthYr": "1948",
+    "deathYr": "2021",
+    "profession": "actor",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0098920",
+        "category": "actor"
+      }
+    ]
+  },
+  {
+    "nameID": "nm15000143",
+    "name": "Lida Volkova",
+    "namePoster": null,
+    "birthYr": null,
+    "deathYr": null,
+    "profession": "editor",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0093572",
+        "category": "editor"
+      }
+    ]
+  },
+  {
+    "nameID": "nm1618242",
+    "name": "Tom Hadaway",
+    "namePoster": null,
+    "birthYr": "1923",
+    "deathYr": "2005",
+    "profession": "actor,miscellaneous,writer",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0097571",
+        "category": "writer"
+      }
+    ]
+  },
+  {
+    "nameID": "nm1747510",
+    "name": "Doddanna",
+    "namePoster": "https://image.tmdb.org/t/p/original/eeorsDvwI5GfsYXRPtZ4GHnpnug.jpg",
+    "birthYr": null,
+    "deathYr": null,
+    "profession": "actor,music_department",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0098977",
+        "category": "actor"
+      }
+    ]
+  },
+  {
+    "nameID": "nm2285433",
+    "name": "Linda Smith",
+    "namePoster": null,
+    "birthYr": null,
+    "deathYr": null,
+    "profession": "actress",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0099744",
+        "category": "actress"
+      }
+    ]
+  },
+  {
+    "nameID": "nm2368944",
+    "name": "Alasdair Robertson",
+    "namePoster": null,
+    "birthYr": null,
+    "deathYr": null,
+    "profession": "composer,music_department",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0097571",
+        "category": "composer"
+      }
+    ]
+  },
+  {
+    "nameID": "nm7049488",
+    "name": "Alasdair Cameron",
+    "namePoster": null,
+    "birthYr": null,
+    "deathYr": null,
+    "profession": "actor",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0097218",
+        "category": "actor"
+      }
+    ]
+  },
+  {
+    "nameID": "nm8393091",
+    "name": "Vita da Cane",
+    "namePoster": null,
+    "birthYr": null,
+    "deathYr": null,
+    "profession": "production_designer",
+    "titles_as_principal": [
+      {
+        "titleID": "tt0096397",
+        "category": "production_designer"
+      }
+    ]
+  }
+]

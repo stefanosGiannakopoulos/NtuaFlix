@@ -1,0 +1,104 @@
+.page-container {
+    padding-top:8rem;
+    position: relative;
+    /* min-height: 60vh; */
+}
+.filters {
+    width: 95%!important;
+    padding: 1.5rem;
+    display: flex!important;
+    flex-direction: row!important;
+    column-gap: 1rem!important;
+    row-gap: 1.2rem;
+    margin: 1rem auto;
+    border: 2px solid rgba(255, 255, 255, .2);
+    backdrop-filter: blur(4px);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    z-index: 1000;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 8px;
+}
+.filters-column {
+    display: flex;
+    flex-direction: row;
+    column-gap: 1rem;
+    row-gap: 1.2rem;
+}
+.filters-column.flex-end {
+    justify-content: flex-end;
+    width: 100%;
+}
+.filters nav.MuiPagination-root .MuiPaginationItem-colorPrimary  {
+    background-color: var(--citrine)!important;
+}
+.filters nav.MuiPagination-root .Mui-selected  {
+    background-color: var(--citrine)!important;
+}
+.filters nav.MuiPagination-root .MuiPaginationItem-colorSecondary {
+    background-color: #fff;
+}
+
+/*
+.MuiPaginationItem-text	 {
+    color: #fff!important;
+}
+.MuiInputBase-root {
+    background-color: #fff;
+}
+.MuiTextField-root label {
+    / * color: var(--citrine); * /
+}
+.MuiTextField-root label.Mui-focused {
+    / * color: var(--citrine)!important; * /
+    / * font-weight: 700; * /
+}
+.MuiTextField-root fieldset {
+    / * border-color: var(--citrine)!important; * /
+    / * box-shadow: 2px 2px 2px 1px var(--citrine); * /
+}
+*/
+
+.movies-container {
+    margin-block:2rem;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    row-gap: 1.5rem;
+    column-gap: 1.5rem;
+}
+.movies-container .card {
+    height: 300px!important;
+    width: 250px;
+}
+
+.no-movie-found {
+    margin: 1.5rem auto;
+}
+.no-movie-found h3 {
+    font-size: clamp(1.4rem, 2vw, 5rem);
+}
+
+@media screen and (max-width: 930px) {
+    .filters {
+        flex-direction: column!important;
+        align-items: flex-start;
+    }
+}
+
+@media screen and (max-width: 540px) {
+    .filters-column {
+        flex-direction: column;
+    }
+    .page-container {
+        padding-top:4rem;
+    }
+}
+
+@media screen and (max-width: 797px) {
+    .movies-container {
+        justify-content: space-evenly
+    }
+}

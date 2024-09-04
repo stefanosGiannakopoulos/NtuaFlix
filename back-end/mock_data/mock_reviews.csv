@@ -1,0 +1,101 @@
+id,text,stars,date,likes,dislikes,user_id,title_id
+1,"I absolutely loved this movie! The acting was superb, the plot was engaging, and the cinematography was stunning. Highly recommended!",5,2022-12-05,10.0,2.0,1.0,tt0098030
+2,"This film was a masterpiece. The storyline kept me hooked from start to finish, and the performances were outstanding. Definitely worth watching!",4,2023-01-20,8.0,1.0,2.0,tt0103046
+3,"I couldn't tear my eyes away from the screen! The characters were so well-developed, and the emotional depth of the story was remarkable. A must-watch!",5,2022-12-28,12.0,3.0,3.0,tt0097631
+4,"A solid movie with great performances. While it may not be groundbreaking, it's definitely worth a watch for its compelling storytelling.",3,2023-01-08,6.0,0.0,4.0,tt0103050
+5,"Not bad at all. The visuals were impressive, and the action sequences were thrilling. However, the pacing felt a bit off at times.",3,2022-12-17,5.0,1.0,5.0,tt0100754
+6,"Thoroughly enjoyed every minute of this film. The humor was spot-on, and the characters were incredibly charming. A delightful watch!",4,2023-01-10,9.0,2.0,6.0,tt0098182
+7,"This movie was okay, but it didn't quite live up to the hype for me. The story felt a bit predictable, and some of the dialogue was cheesy.",2,2022-12-30,3.0,5.0,7.0,tt0098634
+8,"Disappointing. The plot was thin, and the characters felt one-dimensional. Not worth the time investment, in my opinion.",1,2023-01-01,1.0,7.0,8.0,tt0096025
+9,"I wanted to like this movie, but it fell short of my expectations. The pacing was off, and the ending left me feeling unsatisfied.",2,2023-01-02,2.0,6.0,9.0,tt0015724
+10,"Didn't enjoy it at all. The story was weak, and the performances felt forced. Would not recommend.",1,2022-12-15,0.0,10.0,10.0,tt0098958
+11,"Absolutely brilliant! This movie exceeded all my expectations. The performances were outstanding, and the story was deeply moving. A must-see for sure.",5,2023-01-25,15.0,2.0,11.0,tt0067460
+12,"An epic cinematic experience! The visuals were breathtaking, and the storytelling was captivating. Highly recommended for any film enthusiast.",4,2023-01-03,12.0,1.0,12.0,tt0099139
+13,Wow! What a ride. This film kept me on the edge of my seat from start to finish. The twists and turns kept me guessing until the very end.,5,2023-01-11,18.0,3.0,13.0,tt0098980
+14,"A solid movie with strong performances all around. While it may not be groundbreaking, it's definitely worth a watch for its entertaining story.",3,2023-01-12,8.0,0.0,14.0,tt0098979
+15,"Enjoyed it more than I expected. The action scenes were thrilling, and the special effects were top-notch. A fun watch for fans of the genre.",4,2022-12-27,10.0,1.0,15.0,tt0088656
+16,"Entertaining from start to finish. The humor was well-timed, and the characters were memorable. A great way to spend an evening!",4,2022-12-31,11.0,2.0,16.0,tt0099033
+17,"Decent movie, but it didn't leave a lasting impression. The plot felt a bit cliché, and some of the dialogue was cheesy.",3,2023-01-05,7.0,4.0,17.0,tt0100155
+18,"Overall, it was an enjoyable experience. The action sequences were well-executed, but the story lacked depth.",3,2023-01-20,6.0,3.0,18.0,tt0015414
+19,"Had high hopes for this movie, but it fell short for me. The pacing was off, and some of the characters felt underdeveloped.",2,2023-01-09,3.0,7.0,19.0,tt0098514
+20,"Not my cup of tea. The story felt disjointed, and the performances were lackluster. Wouldn't recommend.",2,2022-12-20,1.0,8.0,20.0,tt0100818
+21,"Incredible storytelling! This movie had me captivated from start to finish. The characters were so well-written, and the plot twists were unexpected.",5,2023-01-28,16.0,1.0,21.0,tt0100658
+22,"A visually stunning film with a powerful message. The performances were outstanding, and the cinematography was breathtaking.",4,2023-01-07,11.0,2.0,22.0,tt0096346
+23,"Absolutely loved it! This movie had everything - action, drama, and heart. It's definitely a new favorite of mine.",5,2023-01-14,20.0,3.0,23.0,tt0093309
+24,"Decent movie with solid performances, but it lacked that extra spark to make it truly memorable.",3,2023-01-19,8.0,1.0,24.0,tt0095783
+25,"Enjoyed it for what it was. The special effects were impressive, and the storyline kept me engaged throughout.",3,2023-01-16,7.0,2.0,25.0,tt0101835
+26,Funny and heartwarming. This film was a delightful surprise. Highly recommend it for a good laugh!,4,2023-01-29,13.0,1.0,26.0,tt0098064
+27,"Just okay. The humor felt forced, and the plot was predictable. It's worth a watch if you're a fan of the genre, but don't expect anything groundbreaking.",2,2023-01-03,4.0,6.0,27.0,tt0099018
+28,"Disappointing. I had high hopes for this movie, but it failed to deliver. The story felt rushed, and the characters were forgettable.",1,2023-01-26,2.0,12.0,28.0,tt0095111
+29,"Not my cup of tea. The pacing was off, and the characters felt one-dimensional. Wouldn't recommend it.",2,2023-01-08,0.0,10.0,29.0,tt0099017
+30,"Absolutely terrible. The plot was nonsensical, and the acting was atrocious. Steer clear of this one.",1,2022-12-30,0.0,15.0,30.0,tt0000977
+31,"Incredible film! The storytelling was masterful, and the performances were outstanding. A must-watch for any cinephile.",5,2023-01-15,18.0,0.0,31.0,tt0096767
+32,"A cinematic masterpiece! The visuals were breathtaking, and the soundtrack was mesmerizing. An unforgettable experience.",5,2023-01-09,15.0,1.0,32.0,tt0100770
+33,"Wow! This movie blew me away. The twists and turns kept me on the edge of my seat, and the ending left me speechless.",5,2023-01-28,25.0,2.0,33.0,tt0097720
+34,"Decent movie with solid performances, but it didn't leave a lasting impression on me.",3,2023-01-18,9.0,3.0,34.0,tt0098199
+35,"Enjoyed it overall, but it had its flaws. The pacing felt a bit slow at times, and some of the dialogue felt forced.",3,2023-01-22,8.0,2.0,35.0,tt0096811
+36,Entertaining and charming. This film put a smile on my face from start to finish. A feel-good movie for sure!,4,2023-01-05,12.0,1.0,36.0,tt0099005
+37,"An okay movie, but it didn't fully live up to the hype. The story felt a bit cliché, and some of the humor fell flat.",3,2023-01-11,6.0,4.0,37.0,tt0102424
+38,"Disappointing. The plot was predictable, and the characters felt underdeveloped. Not worth the hype, in my opinion.",2,2023-01-24,3.0,7.0,38.0,tt0101729
+39,"Had high hopes for this movie, but it didn't quite deliver. The pacing felt off, and the ending left me wanting more.",2,2023-01-13,2.0,6.0,39.0,tt0100155
+40,"Not my cup of tea. The story felt disjointed, and the characters were unlikable. Wouldn't recommend it.",1,2022-12-29,1.0,8.0,40.0,tt0096937
+41,"Absolutely loved it! This movie had me hooked from start to finish. The characters were so well-developed, and the story was incredibly moving.",5,2023-01-27,17.0,2.0,41.0,tt0096749
+42,"A visually stunning masterpiece. The cinematography was breathtaking, and the performances were top-notch.",4,2023-01-12,11.0,1.0,42.0,tt0095111
+43,An emotional rollercoaster! This film had me laughing one moment and crying the next. Truly unforgettable.,5,2023-01-19,22.0,3.0,43.0,tt0100406
+44,"Decent movie, but it didn't quite live up to my expectations. The pacing felt a bit slow, and the ending left me feeling unsatisfied.",3,2023-01-25,10.0,5.0,44.0,tt0100724
+45,"Enjoyed it overall, but it had its flaws. The pacing felt a bit off, and some of the characters felt underdeveloped.",3,2023-01-14,8.0,2.0,45.0,tt0098021
+46,"Thoroughly enjoyed it. The humor was on point, and the characters were lovable. A feel-good movie that's perfect for a cozy night in.",4,2023-01-23,12.0,1.0,46.0,tt0097516
+47,"An okay movie, but it didn't leave a lasting impression. The plot felt a bit predictable, and some of the dialogue was cheesy.",3,2023-01-06,6.0,3.0,47.0,tt0098018
+48,"Disappointing. I had high hopes for this movie, but it failed to deliver. The story felt disjointed, and the pacing was off.",2,2023-01-29,3.0,8.0,48.0,tt0097394
+49,"Had high hopes for this movie, but it fell short of my expectations. The characters felt one-dimensional, and the pacing was off.",2,2023-01-07,1.0,6.0,49.0,tt0097666
+50,"Absolutely terrible. The plot was nonsensical, and the acting was cringeworthy. A complete waste of time.",1,2023-01-16,0.0,12.0,50.0,tt0099031
+51,"This movie was like watching paint dry, but less exciting. I'd rather spend two hours staring at a blank wall.",2,2023-01-05,2.0,15.0,2.0,tt0097769
+52,An absolute disaster. I would rather attend a lecture on quantum physics than sit through this movie again.,1,2023-01-14,1.0,18.0,3.0,tt0097820
+53,What a waste of time and money. I've seen better acting in a kindergarten play.,1,2023-01-19,0.0,22.0,4.0,tt0102424
+54,"If I could give this movie negative stars, I would. It's like they tried to make the worst movie possible and succeeded.",1,2023-01-16,0.0,25.0,5.0,tt0097184
+55,"This movie was so bad, it should come with a warning label. Do not watch unless you enjoy torturing yourself.",1,2023-01-29,0.0,30.0,6.0,tt0098986
+56,I've seen better acting in a high school drama club. Save yourself the agony and skip this one.,2,2023-01-03,2.0,18.0,7.0,tt0097559
+57,"If I wanted to watch something terrible, I'd just stare at a blank screen for two hours. It would be more entertaining than this movie.",1,2023-01-26,0.0,15.0,8.0,tt0097184
+58,"I've had more fun at the dentist than watching this movie. At least at the dentist, they give you anesthesia.",1,2023-01-08,1.0,18.0,9.0,tt0100580
+59,"This movie was so bad, I almost walked out of the theater. Save your money and watch paint dry instead.",1,2022-12-30,0.0,20.0,10.0,tt0093061
+60,I'd rather watch a documentary about paint drying than suffer through this movie again. Absolutely dreadful.,1,2023-01-28,0.0,22.0,11.0,tt0092984
+61,"This movie was like a punch in the face, but less enjoyable. Would not recommend unless you enjoy pain.",1,2023-01-07,0.0,25.0,12.0,tt0097949
+62,I've seen better plots in children's cartoons. Save yourself the disappointment and watch something else.,1,2023-01-14,0.0,28.0,13.0,tt0099008
+63,What a waste of time. I could have spent those two hours doing literally anything else and it would have been more productive.,1,2023-01-19,0.0,30.0,14.0,tt0034841
+64,"If I could unsee one movie in my life, it would be this one. Absolutely atrocious in every way.",1,2023-01-16,0.0,32.0,15.0,tt0098064
+65,This movie made me question my life choices. Why did I subject myself to such torture?,1,2023-01-29,0.0,35.0,16.0,tt0097062
+66,I've seen better acting in a middle school play. Save your time and sanity and avoid this movie at all costs.,2,2023-01-03,2.0,30.0,17.0,tt0099001
+67,"This movie was so bad, I thought about asking for a refund. Save yourself the trouble and skip it entirely.",1,2023-01-26,0.0,25.0,18.0,tt0096749
+68,Absolutely dreadful. I'd rather listen to nails on a chalkboard for two hours than watch this movie again.,1,2023-01-08,1.0,28.0,19.0,tt0099580
+69,"This movie was so bad, I felt personally insulted. Do yourself a favor and watch literally anything else.",1,2022-12-30,0.0,30.0,20.0,tt0103020
+70,I'd rather endure a root canal without anesthesia than suffer through this movie again. Pure agony.,1,2023-01-28,0.0,32.0,21.0,tt0103048
+71,This movie was like a bad joke that never ended. I'd rather watch a slideshow of someone's vacation photos.,1,2023-01-07,0.0,35.0,22.0,tt0098553
+72,I've seen better special effects in a high school science project. Save your money and your brain cells.,1,2023-01-14,0.0,38.0,23.0,tt0097479
+73,"This movie was so bad, it made me question the existence of intelligent life in the universe. Avoid at all costs.",1,2023-01-14,0,0,10,tt0102501
+74,The steamy love scenes in this movie had me blushing from ear to ear! A perfect blend of romance and sensuality that left me feeling hot under the collar.,5,2023-01-19,15.0,2.0,25.0,tt0094857
+75,The chemistry between the lead actors was off the charts! Their passionate embraces and heated gazes had me swooning in my seat. A tantalizing display of attraction.,4,2023-01-16,12.0,1.0,26.0,tt0097259
+76,The sultry dialogue in this film had me feeling all hot and bothered. A perfect mix of wit and innuendo that left me craving more. A seductive cinematic experience!,4,2023-01-29,18.0,3.0,27.0,tt0099530
+77,"The romantic subplot in this movie was so steamy, it had me fanning myself! The forbidden passion between the characters added an extra layer of intensity to the story.",5,2023-01-03,20.0,1.0,28.0,tt0099026
+78,"The love scenes in this film were so sensual and erotic, they left me breathless. A perfect depiction of raw passion and desire that had me glued to the screen.",5,2023-01-08,22.0,0.0,29.0,tt0101835
+79,The romantic tension between the main characters was palpable! Their stolen glances and lingering touches had me swooning with anticipation. A slow-burn romance done right.,4,2022-12-30,18.0,1.0,30.0,tt0098657
+80,The passionate embrace between the lovers in the final scene brought tears to my eyes. A beautiful culmination of their tumultuous romance that left me feeling warm and fuzzy inside.,5,2023-01-28,25.0,0.0,31.0,tt0097559
+81,"The forbidden love affair in this movie was so scandalous, it had me on the edge of my seat! The illicit passion between the characters was both thrilling and intoxicating.",4,2023-01-07,20.0,2.0,32.0,tt0102925
+82,"The steamy shower scene in this film was so hot, it fogged up my glasses! A tantalizing display of passion and desire that had me reaching for the cold water.",5,2023-01-14,22.0,1.0,33.0,tt0101836
+83,The chemistry between the romantic leads was electric! Their fiery passion and intense attraction had me rooting for their love to conquer all obstacles.,4,2023-01-19,18.0,3.0,34.0,tt0096397
+84,"The intimate moments between the characters in this movie were so tender and loving, they brought tears to my eyes. A beautiful portrayal of the power of love.",5,2023-01-16,20.0,1.0,35.0,tt0101836
+85,The seductive banter between the main characters had me hooked from the start. Their playful teasing and heated exchanges added an extra layer of excitement to the story.,4,2023-01-29,18.0,2.0,36.0,tt0096860
+86,The chemistry between the characters was undeniable! Their intense gazes and heated whispers had me feeling weak in the knees. A passionate love story for the ages.,4,2023-01-03,15.0,2.0,37.0,tt0094390
+87,"The love scenes in this movie were so steamy, they left me breathless! The raw passion and desire between the characters were palpable, making for an unforgettable viewing experience.",5,2023-01-26,22.0,0.0,38.0,tt0097362
+88,"The romantic subplot in this film was so sensual and erotic, it had me squirming in my seat! The chemistry between the characters was off the charts, igniting sparks on screen.",4,2023-01-08,20.0,1.0,39.0,tt0090665
+89,"The sexual tension between the leads was so thick, you could cut it with a knife! Their smoldering looks and heated exchanges had me fanning myself in excitement.",4,2022-12-30,18.0,2.0,40.0,tt0096992
+90,"The love scenes in this movie were so passionate and intense, they had me blushing from head to toe! A perfect blend of romance and sensuality that left me wanting more.",5,2023-01-28,25.0,0.0,41.0,tt0099370
+91,"The love scenes in this movie were so awkwardly choreographed, I couldn't help but laugh! It was like watching two giraffes attempting to salsa dance.",2,2023-01-14,5.0,3.0,43.0,tt0097893
+92,This movie had more plot holes than a block of Swiss cheese! I spent half the time trying to fill in the gaps with my imagination.,2,2023-01-19,3.0,2.0,44.0,tt0097765
+93,"The special effects in this film were so cheesy, I half expected a giant pizza to come crashing through the screen! Extra cheese, please.",3,2023-01-16,6.0,4.0,45.0,tt0097683
+94,"I've seen better acting in a kindergarten play. The performances were so over-the-top, I half expected the actors to break out into song and dance.",2,2023-01-29,8.0,3.0,46.0,tt0099781
+95,This movie was like a bad joke that never ended. I'd rather watch a sloth race than suffer through this mess again.,1,2023-01-03,1.0,7.0,47.0,tt0097638
+96,"The dialogue in this film was so cringe-worthy, I nearly sprained my eye-rolling muscles! Whoever wrote this script must have been sleep-deprived.",2,2023-01-26,3.0,5.0,48.0,tt0078006
+97,"I've had more fun at the DMV than watching this movie. At least at the DMV, they give you a number to pass the time.",1,2023-01-08,0.0,6.0,49.0,tt0098372
+98,"This movie was so bad, I felt like I owed my brain an apology afterward. Note to self: Never trust random recommendations from strangers on the internet.",1,2022-12-30,2.0,8.0,50.0,tt0096864
+99,"I'd rather watch paint dry than suffer through this movie again. At least with paint drying, there's a sense of accomplishment when it's over.",1,2023-01-28,4.0,4.0,50.0,tt0098966
+100,"I've seen better plots in a bowl of spaghetti. This movie was all over the place, like a drunk octopus trying to play the bagpipes.",2,2023-01-07,7.0,2.0,5.0,tt0098993

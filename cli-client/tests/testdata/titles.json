@@ -1,0 +1,1675 @@
+[
+  {
+    "titleID": "tt0099102",
+    "type": "short",
+    "original_title": "Band söker basist",
+    "titlePoster": null,
+    "startYear": "1990",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Comedy"
+      },
+      {
+        "genreName": "Short"
+      },
+      {
+        "genreName": "Music"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Band söker basist",
+        "regionAbbrev": "SE"
+      },
+      {
+        "akaTitle": "Band söker basist",
+        "regionAbbrev": null
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm14442961",
+        "primaryName": "Olle Bäcklund",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm14442962",
+        "primaryName": "Lars Finberg",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm14442963",
+        "primaryName": "Björn Molinder",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0277376",
+        "primaryName": "Lasse Finberg",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0170407",
+        "primaryName": "Johan Colding",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0632311",
+        "primaryName": "Stig-Åke Nilsson",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0105308",
+        "primaryName": "Ulf Brantås",
+        "category": "cinematographer"
+      }
+    ],
+    "rating": {
+      "avRating": null,
+      "nVotes": null
+    }
+  },
+  {
+    "titleID": "tt0081436",
+    "type": "movie",
+    "original_title": "Rosa Heimat - eine Landillusion",
+    "titlePoster": null,
+    "startYear": "1990",
+    "endYear": "None",
+    "genres": [],
+    "titleAkas": [
+      {
+        "akaTitle": "Rosa Heimat - eine Landillusion",
+        "regionAbbrev": "AT"
+      },
+      {
+        "akaTitle": "Rosa Heimat - eine Landillusion",
+        "regionAbbrev": null
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0525938",
+        "primaryName": "Leopold Lummerstorfer",
+        "category": "director"
+      }
+    ],
+    "rating": {
+      "avRating": null,
+      "nVotes": null
+    }
+  },
+  {
+    "titleID": "tt0090869",
+    "type": "movie",
+    "original_title": "Comando terrorista",
+    "titlePoster": null,
+    "startYear": "1990",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Action"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Comando terrorista",
+        "regionAbbrev": null
+      },
+      {
+        "akaTitle": "Comando terrorista",
+        "regionAbbrev": "ES"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0821564",
+        "primaryName": "Draguy Steiner",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0874252",
+        "primaryName": "Giuliano Trujillos",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm2426375",
+        "primaryName": "Alex Aparissi",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0759757",
+        "primaryName": "Aldo Sambrell",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0173065",
+        "primaryName": "Luis Colombo",
+        "category": "director"
+      },
+      {
+        "nameID": "nm2419918",
+        "primaryName": "Miguel Lizondo",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm1648673",
+        "primaryName": "Javier Moreno",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm2139781",
+        "primaryName": "Juan Carlos Plá",
+        "category": "composer"
+      },
+      {
+        "nameID": "nm2425907",
+        "primaryName": "José Alcón Traver",
+        "category": "editor"
+      }
+    ],
+    "rating": {
+      "avRating": null,
+      "nVotes": null
+    }
+  },
+  {
+    "titleID": "tt0078006",
+    "type": "short",
+    "original_title": "Norman and the Killer",
+    "titlePoster": null,
+    "startYear": "1991",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Short"
+      },
+      {
+        "genreName": "Horror"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Norman and the Killer",
+        "regionAbbrev": "US"
+      },
+      {
+        "akaTitle": "Norman and the Killer",
+        "regionAbbrev": null
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0000035",
+        "primaryName": "James Horner",
+        "category": "composer"
+      },
+      {
+        "nameID": "nm0370209",
+        "primaryName": "Richard L. Hawkins",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0244139",
+        "primaryName": "John Durren",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0730372",
+        "primaryName": "Jane Marla Robbins",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0625196",
+        "primaryName": "Brett Nelson",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0333937",
+        "primaryName": "Bob Graham",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0643093",
+        "primaryName": "Joyce Carol Oates",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0682421",
+        "primaryName": "Lynn Thomas Pierce",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0455130",
+        "primaryName": "Peggy King",
+        "category": "producer"
+      },
+      {
+        "nameID": "nm0703605",
+        "primaryName": "Kate Quillan",
+        "category": "producer"
+      }
+    ],
+    "rating": {
+      "avRating": "7.0",
+      "nVotes": "33"
+    }
+  },
+  {
+    "titleID": "tt0081145",
+    "type": "movie",
+    "original_title": "Me and the Kid",
+    "titlePoster": null,
+    "startYear": "1993",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Comedy"
+      },
+      {
+        "genreName": "Drama"
+      },
+      {
+        "genreName": "Crime"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Me and the Kid",
+        "regionAbbrev": null
+      },
+      {
+        "akaTitle": "Kid et le Truand",
+        "regionAbbrev": "FR"
+      },
+      {
+        "akaTitle": "Taking Gary Feldman",
+        "regionAbbrev": "US"
+      },
+      {
+        "akaTitle": "Me and the Kid",
+        "regionAbbrev": "MX"
+      },
+      {
+        "akaTitle": "Harry e Carota",
+        "regionAbbrev": "IT"
+      },
+      {
+        "akaTitle": "Eu E Meu Amigo",
+        "regionAbbrev": "BR"
+      },
+      {
+        "akaTitle": "Я и ребёнок",
+        "regionAbbrev": "RU"
+      },
+      {
+        "akaTitle": "Atrévete a secuestrar un niño y verás",
+        "regionAbbrev": "ES"
+      },
+      {
+        "akaTitle": "Me and the Kid",
+        "regionAbbrev": "GB"
+      },
+      {
+        "akaTitle": "Hurra! Jag är kidnappad",
+        "regionAbbrev": "SE"
+      },
+      {
+        "akaTitle": "Me and the Kid",
+        "regionAbbrev": "US"
+      },
+      {
+        "akaTitle": "Mein Freund, der Entführer",
+        "regionAbbrev": "DE"
+      },
+      {
+        "akaTitle": "Аз и хлапето",
+        "regionAbbrev": "BG"
+      },
+      {
+        "akaTitle": "El chico y yo",
+        "regionAbbrev": "ES"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0005777",
+        "primaryName": "Dietrich Lohmann",
+        "category": "cinematographer"
+      },
+      {
+        "nameID": "nm0000732",
+        "primaryName": "Danny Aiello",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0958406",
+        "primaryName": "Alex Zuckerman",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0001592",
+        "primaryName": "Joe Pantoliano",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0001550",
+        "primaryName": "Cathy Moriarty",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0193303",
+        "primaryName": "Dan Curtis",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0169785",
+        "primaryName": "Stanley Cohen",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0849601",
+        "primaryName": "Richard Tannenbaum",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0521011",
+        "primaryName": "Lynn Loring",
+        "category": "producer"
+      },
+      {
+        "nameID": "nm0006013",
+        "primaryName": "Bob Cobert",
+        "category": "composer"
+      }
+    ],
+    "rating": {
+      "avRating": "5.4",
+      "nVotes": "286"
+    }
+  },
+  {
+    "titleID": "tt0084638",
+    "type": "short",
+    "original_title": "Scenes from the Life of Andy Warhol: Friendships and Intersections",
+    "titlePoster": "https://image.tmdb.org/t/p/original/avHpCWc17IYJZqifb7bSQI2OqC9.jpg",
+    "startYear": "1990",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Short"
+      },
+      {
+        "genreName": "Documentary"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Сцены из жизни Энди Уорхола",
+        "regionAbbrev": "SUHH"
+      },
+      {
+        "akaTitle": "Warhol privat",
+        "regionAbbrev": "DE"
+      },
+      {
+        "akaTitle": "Scenes from the Life of Andy Warhol: Friendships and Intersections",
+        "regionAbbrev": "US"
+      },
+      {
+        "akaTitle": "Cenas da Vida de Andy Warhol: Amizades e Interseções",
+        "regionAbbrev": "BR"
+      },
+      {
+        "akaTitle": "Scenes from the Life of Andy Warhol: Friendships and Intersections",
+        "regionAbbrev": null
+      },
+      {
+        "akaTitle": "Escenas de la vida de Andy Warhol",
+        "regionAbbrev": "VE"
+      },
+      {
+        "akaTitle": "Σκηνές από τη ζωή του Άντι Γουόρχολ: Φιλίες και συναντήσεις",
+        "regionAbbrev": "GR"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0630113",
+        "primaryName": "Nico",
+        "category": "self"
+      },
+      {
+        "nameID": "nm0912238",
+        "primaryName": "Andy Warhol",
+        "category": "archive_footage"
+      },
+      {
+        "nameID": "nm0129816",
+        "primaryName": "John Cale",
+        "category": "self"
+      },
+      {
+        "nameID": "nm0320091",
+        "primaryName": "Allen Ginsberg",
+        "category": "self"
+      },
+      {
+        "nameID": "nm0001396",
+        "primaryName": "Mick Jagger",
+        "category": "self"
+      },
+      {
+        "nameID": "nm0577263",
+        "primaryName": "Jonas Mekas",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0447882",
+        "primaryName": "John Kennedy Jr.",
+        "category": "self"
+      },
+      {
+        "nameID": "nm0006168",
+        "primaryName": "John Lennon",
+        "category": "archive_footage"
+      },
+      {
+        "nameID": "nm0538922",
+        "primaryName": "Gerard Malanga",
+        "category": "self"
+      },
+      {
+        "nameID": "nm0607316",
+        "primaryName": "Sterling Morrison",
+        "category": "self"
+      }
+    ],
+    "rating": {
+      "avRating": "6.9",
+      "nVotes": "420"
+    }
+  },
+  {
+    "titleID": "tt0096864",
+    "type": "tvEpisode",
+    "original_title": "Grand Theft Hotel",
+    "titlePoster": null,
+    "startYear": "1990",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Mystery"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Grand Theft Hotel",
+        "regionAbbrev": "US"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0816348",
+        "primaryName": "Jack B. Sowards",
+        "category": "producer"
+      },
+      {
+        "nameID": "nm0006045",
+        "primaryName": "Steve Dorff",
+        "category": "composer"
+      },
+      {
+        "nameID": "nm0000608",
+        "primaryName": "Burt Reynolds",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0436715",
+        "primaryName": "Dana Kaminski",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0001115",
+        "primaryName": "Ossie Davis",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0000756",
+        "primaryName": "Loni Anderson",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0923571",
+        "primaryName": "Tony Wharmby",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0189610",
+        "primaryName": "Christopher Crowe",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0122900",
+        "primaryName": "Timothy Burns",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0915940",
+        "primaryName": "Rick Weaver",
+        "category": "producer"
+      }
+    ],
+    "rating": {
+      "avRating": "6.0",
+      "nVotes": "43"
+    }
+  },
+  {
+    "titleID": "tt0096910",
+    "type": "movie",
+    "original_title": "Ben Webster: The Brute and the Beautiful",
+    "titlePoster": null,
+    "startYear": "1990",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Documentary"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Ben Webster: The Brute and the Beautiful",
+        "regionAbbrev": "GB"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0001012",
+        "primaryName": "Claudia Cardinale",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0329746",
+        "primaryName": "Claudio Gora",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0744103",
+        "primaryName": "Eleonora Rossi Drago",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0916830",
+        "primaryName": "Ben Webster",
+        "category": "archive_footage"
+      },
+      {
+        "nameID": "nm0421904",
+        "primaryName": "John Jeremy",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0208086",
+        "primaryName": "Ennio De Concini",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0316251",
+        "primaryName": "Alfredo Giannetti",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0368159",
+        "primaryName": "Steve Haskett",
+        "category": "cinematographer"
+      },
+      {
+        "nameID": "nm0687561",
+        "primaryName": "Simon Plum",
+        "category": "cinematographer"
+      }
+    ],
+    "rating": {
+      "avRating": "4.9",
+      "nVotes": "20"
+    }
+  },
+  {
+    "titleID": "tt0097949",
+    "type": "movie",
+    "original_title": "Märkische Heide, märkischer Sand",
+    "titlePoster": "https://image.tmdb.org/t/p/original/hxl9TwLZBmCfXhrYI0ZAcf0Agil.jpg",
+    "startYear": "1990",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Documentary"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Märkische Heide, märkischer Sand",
+        "regionAbbrev": null
+      },
+      {
+        "akaTitle": "March Brandenburg Heath, March Brandenburg Sand",
+        "regionAbbrev": "XWW"
+      },
+      {
+        "akaTitle": "布蘭登堡二部曲：荒原與沙",
+        "regionAbbrev": "TW"
+      },
+      {
+        "akaTitle": "Märkische Heide, märkischer Sand",
+        "regionAbbrev": "DDDE"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0462899",
+        "primaryName": "Volker Koepp",
+        "category": "director"
+      }
+    ],
+    "rating": {
+      "avRating": "8.5",
+      "nVotes": "12"
+    }
+  },
+  {
+    "titleID": "tt0098278",
+    "type": "movie",
+    "original_title": "Scandalo segreto",
+    "titlePoster": "https://image.tmdb.org/t/p/original/oYHchrYZtqgi66Y8a6IJnOPEvqn.jpg",
+    "startYear": "1990",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Drama"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Sekretny skandal",
+        "regionAbbrev": "PL"
+      },
+      {
+        "akaTitle": "Scandalo segreto",
+        "regionAbbrev": "IT"
+      },
+      {
+        "akaTitle": "Scandalo segreto",
+        "regionAbbrev": null
+      },
+      {
+        "akaTitle": "Titkos botrány",
+        "regionAbbrev": "HU"
+      },
+      {
+        "akaTitle": "Secret Scandal",
+        "regionAbbrev": "US"
+      },
+      {
+        "akaTitle": "Gizli Skandal",
+        "regionAbbrev": "TR"
+      },
+      {
+        "akaTitle": "Scandale secret",
+        "regionAbbrev": "FR"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0900143",
+        "primaryName": "Monica Vitti",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0001285",
+        "primaryName": "Elliott Gould",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0674358",
+        "primaryName": "Gino Pernice",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0816457",
+        "primaryName": "Catherine Spaak",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0166405",
+        "primaryName": "Gianfranco Clerici",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0751721",
+        "primaryName": "Roberto Russo",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0005765",
+        "primaryName": "Luigi Kuveiller",
+        "category": "cinematographer"
+      },
+      {
+        "nameID": "nm0302976",
+        "primaryName": "Alberto Gallitti",
+        "category": "editor"
+      }
+    ],
+    "rating": {
+      "avRating": "5.5",
+      "nVotes": "41"
+    }
+  },
+  {
+    "titleID": "tt0098392",
+    "type": "short",
+    "original_title": "Der Strandpirat",
+    "titlePoster": null,
+    "startYear": "1990",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Short"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Der Strandpirat",
+        "regionAbbrev": null
+      },
+      {
+        "akaTitle": "Der Strandpirat",
+        "regionAbbrev": "XWG"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0194422",
+        "primaryName": "Susanne Czepl",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm3990931",
+        "primaryName": "Philine Düssel",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0349654",
+        "primaryName": "Michael Gutmann",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0487110",
+        "primaryName": "Leonard Lansink",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0584906",
+        "primaryName": "Rainer Michel",
+        "category": "composer"
+      },
+      {
+        "nameID": "nm0389238",
+        "primaryName": "Pascal Hoffmann",
+        "category": "cinematographer"
+      },
+      {
+        "nameID": "nm2827407",
+        "primaryName": "Anna Klusen",
+        "category": "editor"
+      },
+      {
+        "nameID": "nm0517351",
+        "primaryName": "Knut Loewe",
+        "category": "production_designer"
+      }
+    ],
+    "rating": {
+      "avRating": "6.0",
+      "nVotes": "10"
+    }
+  },
+  {
+    "titleID": "tt0098966",
+    "type": "movie",
+    "original_title": "3 Men and a Little Lady",
+    "titlePoster": "https://image.tmdb.org/t/p/original/4VWWEnhX0zddRKwZWGtIdDcV5U7.jpg",
+    "startYear": "1990",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Comedy"
+      },
+      {
+        "genreName": "Drama"
+      },
+      {
+        "genreName": "Family"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "3 Men and a Little Lady",
+        "regionAbbrev": "CA"
+      },
+      {
+        "akaTitle": "Троє чоловіків і маленька леді",
+        "regionAbbrev": "UA"
+      },
+      {
+        "akaTitle": "Κορίτσι για τρεις",
+        "regionAbbrev": "GR"
+      },
+      {
+        "akaTitle": "3 Men and a Little Lady",
+        "regionAbbrev": "GB"
+      },
+      {
+        "akaTitle": "Trzech mężczyzn i mała dama",
+        "regionAbbrev": "PL"
+      },
+      {
+        "akaTitle": "Tre mand og en lille dame",
+        "regionAbbrev": "DK"
+      },
+      {
+        "akaTitle": "Három férfi és egy kis hölgy",
+        "regionAbbrev": "HU"
+      },
+      {
+        "akaTitle": "Трое мужчин и маленькая леди",
+        "regionAbbrev": "SUHH"
+      },
+      {
+        "akaTitle": "Tres hombres y una pequeña dama",
+        "regionAbbrev": "ES"
+      },
+      {
+        "akaTitle": "3 hombres y una pequeña dama",
+        "regionAbbrev": "AR"
+      },
+      {
+        "akaTitle": "3 Men and a Little Lady",
+        "regionAbbrev": null
+      },
+      {
+        "akaTitle": "3 hombres y una pequeña dama",
+        "regionAbbrev": "PE"
+      },
+      {
+        "akaTitle": "スリーメン&リトルレディ",
+        "regionAbbrev": "JP"
+      },
+      {
+        "akaTitle": "Trois hommes et une jeune demoiselle",
+        "regionAbbrev": "CA"
+      },
+      {
+        "akaTitle": "Tri muškarca i mala dama",
+        "regionAbbrev": "HR"
+      },
+      {
+        "akaTitle": "Three Men and a Little Lady",
+        "regionAbbrev": "AU"
+      },
+      {
+        "akaTitle": "Drei Männer und eine kleine Lady",
+        "regionAbbrev": "DE"
+      },
+      {
+        "akaTitle": "Kolme miestä ja pikkuneiti",
+        "regionAbbrev": "FI"
+      },
+      {
+        "akaTitle": "Tre scapoli e una bimba",
+        "regionAbbrev": "IT"
+      },
+      {
+        "akaTitle": "Shlosha Gvarim V'Lady Ahat Ktna",
+        "regionAbbrev": "IL"
+      },
+      {
+        "akaTitle": "Tri muškarca i mlada dama",
+        "regionAbbrev": "RS"
+      },
+      {
+        "akaTitle": "Трима мъже и една малка лейди",
+        "regionAbbrev": "BG"
+      },
+      {
+        "akaTitle": "Tres hombres y una pequeña dama",
+        "regionAbbrev": "MX"
+      },
+      {
+        "akaTitle": "Trei barbati si o fetita",
+        "regionAbbrev": "RO"
+      },
+      {
+        "akaTitle": "Tels pères, telle fille",
+        "regionAbbrev": "FR"
+      },
+      {
+        "akaTitle": "Três Solteirões e uma Pequena Dama",
+        "regionAbbrev": "BR"
+      },
+      {
+        "akaTitle": "Üç Adam ve Bir Küçük Hanım",
+        "regionAbbrev": "TR"
+      },
+      {
+        "akaTitle": "Três Homens e Uma Menina",
+        "regionAbbrev": "PT"
+      },
+      {
+        "akaTitle": "Tre män och en liten tjej",
+        "regionAbbrev": "SE"
+      },
+      {
+        "akaTitle": "三個奶爸一個妞",
+        "regionAbbrev": "TW"
+      },
+      {
+        "akaTitle": "Three Men and a Little Lady",
+        "regionAbbrev": "US"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0181202",
+        "primaryName": "Robert W. Cort",
+        "category": "producer"
+      },
+      {
+        "nameID": "nm0000633",
+        "primaryName": "Tom Selleck",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0000430",
+        "primaryName": "Steve Guttenberg",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0001101",
+        "primaryName": "Ted Danson",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0001802",
+        "primaryName": "Nancy Travis",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0001915",
+        "primaryName": "Emile Ardolino",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0785684",
+        "primaryName": "Coline Serreau",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0663490",
+        "primaryName": "Sara Parriott",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0569210",
+        "primaryName": "Josann McGibbon",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0676361",
+        "primaryName": "Charlie Peters",
+        "category": "writer"
+      }
+    ],
+    "rating": {
+      "avRating": "5.5",
+      "nVotes": "25933"
+    }
+  },
+  {
+    "titleID": "tt0099971",
+    "type": "tvEpisode",
+    "original_title": "The Land of Dreams",
+    "titlePoster": "https://image.tmdb.org/t/p/original/k5u5rheU4m7zDRPFPTEsS4sqAdD.jpg",
+    "startYear": "1990",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Drama"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "The Land of Dreams",
+        "regionAbbrev": "GB"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0386227",
+        "primaryName": "Masahiro Hirakubo",
+        "category": "editor"
+      },
+      {
+        "nameID": "nm0792029",
+        "primaryName": "Antony Sher",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0787570",
+        "primaryName": "Patrick Shai",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0203958",
+        "primaryName": "Rudi Davies",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0015617",
+        "primaryName": "Jude Akuwudike",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0492722",
+        "primaryName": "Diarmuid Lawrence",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0190930",
+        "primaryName": "Allan Cubitt",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0524899",
+        "primaryName": "Colin Ludlow",
+        "category": "producer"
+      },
+      {
+        "nameID": "nm0350308",
+        "primaryName": "Jonas Gwangwa",
+        "category": "composer"
+      },
+      {
+        "nameID": "nm0001899",
+        "primaryName": "Remi Adefarasin",
+        "category": "cinematographer"
+      }
+    ],
+    "rating": {
+      "avRating": "6.6",
+      "nVotes": "7"
+    }
+  },
+  {
+    "titleID": "tt0100578",
+    "type": "tvEpisode",
+    "original_title": "Sensibility and Sense",
+    "titlePoster": null,
+    "startYear": "1990",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Comedy"
+      },
+      {
+        "genreName": "Drama"
+      },
+      {
+        "genreName": "Romance"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Sensibility and Sense",
+        "regionAbbrev": "US"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0001739",
+        "primaryName": "Jean Simmons",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0834626",
+        "primaryName": "Elaine Stritch",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0017651",
+        "primaryName": "Tom Aldredge",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0000655",
+        "primaryName": "Eric Stoltz",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0000666",
+        "primaryName": "Lili Taylor",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0427880",
+        "primaryName": "David Hugh Jones",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0000807",
+        "primaryName": "Jane Austen",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0625695",
+        "primaryName": "Richard Nelson",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0555684",
+        "primaryName": "Timothy Marx",
+        "category": "producer"
+      },
+      {
+        "nameID": "nm0000746",
+        "primaryName": "Trini Alvarado",
+        "category": "actress"
+      }
+    ],
+    "rating": {
+      "avRating": "8.1",
+      "nVotes": "66"
+    }
+  },
+  {
+    "titleID": "tt0100658",
+    "type": "tvEpisode",
+    "original_title": "Some Lie and Some Die: Part One",
+    "titlePoster": null,
+    "startYear": "1990",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Drama"
+      },
+      {
+        "genreName": "Crime"
+      },
+      {
+        "genreName": "Mystery"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Some Lie and Some Die: Part One",
+        "regionAbbrev": "GB"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0071626",
+        "primaryName": "Brian Bennett",
+        "category": "composer"
+      },
+      {
+        "nameID": "nm0048468",
+        "primaryName": "George Baker",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0712385",
+        "primaryName": "Christopher Ravenscroft",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0708902",
+        "primaryName": "Louie Ramsay",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0444580",
+        "primaryName": "Diane Keen",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0426183",
+        "primaryName": "Sandy Johnson",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0414226",
+        "primaryName": "Matthew Jacobs",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0203786",
+        "primaryName": "John Davies",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0719334",
+        "primaryName": "Ruth Rendell",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0954329",
+        "primaryName": "Neil Zeiger",
+        "category": "producer"
+      }
+    ],
+    "rating": {
+      "avRating": "7.5",
+      "nVotes": "53"
+    }
+  },
+  {
+    "titleID": "tt0101300",
+    "type": "tvEpisode",
+    "original_title": "Alive and Kicking",
+    "titlePoster": "https://image.tmdb.org/t/p/original/gelkUol49M8nISTbZvCAZPpeFvv.jpg",
+    "startYear": "1991",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Comedy"
+      },
+      {
+        "genreName": "Drama"
+      },
+      {
+        "genreName": "Crime"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Alive and Kicking",
+        "regionAbbrev": "GB"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0910324",
+        "primaryName": "Nigel Walters",
+        "category": "cinematographer"
+      },
+      {
+        "nameID": "nm0377901",
+        "primaryName": "Lenny Henry",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0001059",
+        "primaryName": "Robbie Coltrane",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0032536",
+        "primaryName": "Annabelle Apsion",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0290162",
+        "primaryName": "Geff Francis",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0950000",
+        "primaryName": "Robert Young",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0039185",
+        "primaryName": "Al Ashton",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0860034",
+        "primaryName": "David M. Thompson",
+        "category": "producer"
+      },
+      {
+        "nameID": "nm0032373",
+        "primaryName": "Philip Appleby",
+        "category": "composer"
+      },
+      {
+        "nameID": "nm0727132",
+        "primaryName": "Mykael S. Riley",
+        "category": "composer"
+      }
+    ],
+    "rating": {
+      "avRating": "7.5",
+      "nVotes": "71"
+    }
+  },
+  {
+    "titleID": "tt0101358",
+    "type": "tvEpisode",
+    "original_title": "Antonia and Jane",
+    "titlePoster": "https://image.tmdb.org/t/p/original/5d1AgAgtXxvkTkyY2n2eI943wZy.jpg",
+    "startYear": "1990",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Drama"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Antonia and Jane",
+        "regionAbbrev": "GB"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0262935",
+        "primaryName": "Kate Evans",
+        "category": "editor"
+      },
+      {
+        "nameID": "nm0716293",
+        "primaryName": "Saskia Reeves",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0001767",
+        "primaryName": "Imelda Staunton",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0505303",
+        "primaryName": "Patricia Leventon",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0388804",
+        "primaryName": "Alfred Hoffman",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0452319",
+        "primaryName": "Beeban Kidron",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0434669",
+        "primaryName": "Marcy Kahan",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0264480",
+        "primaryName": "George Faber",
+        "category": "producer"
+      },
+      {
+        "nameID": "nm0006235",
+        "primaryName": "Rachel Portman",
+        "category": "composer"
+      },
+      {
+        "nameID": "nm0537402",
+        "primaryName": "Rex Maidment",
+        "category": "cinematographer"
+      }
+    ],
+    "rating": {
+      "avRating": "7.1",
+      "nVotes": "336"
+    }
+  },
+  {
+    "titleID": "tt0101443",
+    "type": "tvEpisode",
+    "original_title": "Big Band Time",
+    "titlePoster": null,
+    "startYear": "1991",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Drama"
+      },
+      {
+        "genreName": "Crime"
+      },
+      {
+        "genreName": "Mystery"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Big Band Time",
+        "regionAbbrev": "DE"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0474680",
+        "primaryName": "Gerhard Kulosa",
+        "category": "production_designer"
+      },
+      {
+        "nameID": "nm0096509",
+        "primaryName": "Peter Borgelt",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0291149",
+        "primaryName": "Holger Franke",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0927980",
+        "primaryName": "Alexander Wikarski",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0618238",
+        "primaryName": "Manfred Müller",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0406134",
+        "primaryName": "Wolfgang Hübner",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0351439",
+        "primaryName": "Eberhard Görner",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0278925",
+        "primaryName": "Günther Fischer",
+        "category": "composer"
+      },
+      {
+        "nameID": "nm0090335",
+        "primaryName": "Kurt Bobek",
+        "category": "cinematographer"
+      },
+      {
+        "nameID": "nm1074696",
+        "primaryName": "Brigitte Hujer",
+        "category": "editor"
+      }
+    ],
+    "rating": {
+      "avRating": "6.5",
+      "nVotes": "43"
+    }
+  },
+  {
+    "titleID": "tt0102378",
+    "type": "tvEpisode",
+    "original_title": "Maigret et la grande perche",
+    "titlePoster": null,
+    "startYear": "1991",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Drama"
+      },
+      {
+        "genreName": "Crime"
+      },
+      {
+        "genreName": "Mystery"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Maigret et la grande perche",
+        "regionAbbrev": "FR"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0346830",
+        "primaryName": "Eliane Guignet",
+        "category": "editor"
+      },
+      {
+        "nameID": "nm0187337",
+        "primaryName": "Bruno Cremer",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0003909",
+        "primaryName": "Michael Lonsdale",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0269197",
+        "primaryName": "Renée Faure",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0534150",
+        "primaryName": "Elisabeth Macocco",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0330848",
+        "primaryName": "Claude Goretta",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0799442",
+        "primaryName": "Georges Simenon",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0246196",
+        "primaryName": "Arié Dzierlatka",
+        "category": "composer"
+      },
+      {
+        "nameID": "nm0677639",
+        "primaryName": "Laurent Petitgirard",
+        "category": "composer"
+      },
+      {
+        "nameID": "nm0466283",
+        "primaryName": "Pavel Korinek",
+        "category": "cinematographer"
+      }
+    ],
+    "rating": {
+      "avRating": "7.4",
+      "nVotes": "145"
+    }
+  },
+  {
+    "titleID": "tt0103145",
+    "type": "tvEpisode",
+    "original_title": "Two Teens and a Baby",
+    "titlePoster": null,
+    "startYear": "1992",
+    "endYear": "None",
+    "genres": [
+      {
+        "genreName": "Comedy"
+      },
+      {
+        "genreName": "Drama"
+      },
+      {
+        "genreName": "Adventure"
+      }
+    ],
+    "titleAkas": [
+      {
+        "akaTitle": "Two Teens and a Baby",
+        "regionAbbrev": "US"
+      }
+    ],
+    "principals": [
+      {
+        "nameID": "nm0252004",
+        "primaryName": "Sheri Eisenberg",
+        "category": "editor"
+      },
+      {
+        "nameID": "nm0130808",
+        "primaryName": "James Calvert",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0000585",
+        "primaryName": "Robert Picardo",
+        "category": "actor"
+      },
+      {
+        "nameID": "nm0265678",
+        "primaryName": "Sandy Faison",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0281234",
+        "primaryName": "Maureen Flannigan",
+        "category": "actress"
+      },
+      {
+        "nameID": "nm0247089",
+        "primaryName": "David J. Eagle",
+        "category": "director"
+      },
+      {
+        "nameID": "nm0823451",
+        "primaryName": "Carol Starr Schneider",
+        "category": "writer"
+      },
+      {
+        "nameID": "nm0453147",
+        "primaryName": "Michael Killen",
+        "category": "producer"
+      },
+      {
+        "nameID": "nm0805813",
+        "primaryName": "Dan Slider",
+        "category": "composer"
+      },
+      {
+        "nameID": "nm0348362",
+        "primaryName": "Rick F. Gunter",
+        "category": "cinematographer"
+      }
+    ],
+    "rating": {
+      "avRating": "7.6",
+      "nVotes": "12"
+    }
+  }
+]

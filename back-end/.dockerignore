@@ -1,0 +1,13 @@
+.env
+env_template
+.git
+.venv
+tests/
+Dockerfile
+.dockerignore
+truncated/data
+
+# Byte-compiled / optimized / DLL files
+**/__pycache__/
+**/*.py[cod]
+

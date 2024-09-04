@@ -1,0 +1,9 @@
+.copyrightnotice {
+    padding-top: 1rem;
+    display: flex;
+    justify-content: center;
+    font-weight: 100;
+    font-size: 0.6rem;
+    color: #aaa;
+    z-index: 100000;
+}

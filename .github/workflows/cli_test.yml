@@ -1,0 +1,33 @@
+name: Tests for CLI client (setup app using Docker Compose)
+
+on:
+  workflow_run:
+    workflows: [Backend Tests]
+    types: [ completed ]
+
+jobs:
+  test_cli_docker:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - name: Docker compose up
+        uses: isbang/compose-action@v1.5.1
+        with:
+          compose-file: "./docker-compose.yml"
+      - name: Installing requirements.txt for cli
+        run: pip install -r cli-client/requirements.txt
+      - name: Testing cli
+        run: |
+          cd cli-client
+          pytest
+
+  on-failure:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'failure' }}
+    steps:
+      - run: |
+          echo "Backend tests had failed. not running"
+          exit 1

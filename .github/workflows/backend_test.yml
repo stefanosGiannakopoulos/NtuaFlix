@@ -1,0 +1,56 @@
+name: Backend Tests
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  test_backend:
+    runs-on: ubuntu-latest
+    container: python:3.11
+
+    services:
+      postgres:
+        image: postgres
+        env:
+          POSTGRES_DB: test_db
+          POSTGRES_USER: test_db_user
+          POSTGRES_PASSWORD: test_password
+        options: >-
+          --health-cmd pg_isready
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
+    steps:
+#      - name: Debounce 1 minute
+#        uses: zachary95/github-action-debounce@main
+#        with:
+#          wait: 60
+      - name: Installing psql
+        run: |
+          apt-get update
+          apt-get install -y --no-install-recommends postgresql-client
+      - name: Check out repository code
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            back-end
+            cli-client 
+      - name: Install python requirements
+        run: |
+          cd back-end
+          pip install -r requirements.txt
+      - name: Testing
+        run: |
+          cd back-end
+          pytest --use-existing-dbms yes
+        env:
+          DEBUG: 1
+          DB_HOST: postgres
+          DB_DATABASE: test_db
+          DB_USERNAME: test_db_user
+          DB_PASSWORD: test_password
+          SECRET_KEY: 469155679be5db1afdb6613292c4c7805dfa71d2be7fde22d5abb522d6f23ef2
+          ALGORITHM: HS256
+          FORGET_PWD_SECRET_KEY: 658955679be4fr3afdb6613292c4c7805dfa71d2be7fde2297abb535d6f23ef2
+

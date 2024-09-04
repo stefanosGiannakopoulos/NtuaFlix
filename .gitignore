@@ -1,0 +1,9 @@
+.venv/
+back-end/.env
+__pycache__/
+node_modules/
+bin/
+lib/
+include/
+.coverage
+

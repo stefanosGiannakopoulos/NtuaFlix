@@ -1,0 +1,36 @@
+.not-registered-background { 
+    background:linear-gradient(to bottom, rgba(0, 0, 0, 0.72), rgba(0, 0, 0, 0.1)), url("../assets/images/not-registered-optimized.jpeg");
+    min-height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    background-position: 50% 5%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    left: 0;
+} 
+.not-registered-container {
+    width: fit-content;
+    color: #fff;
+    padding:50px;
+    border-radius: 40px;
+    border: 2px solid rgba(255, 255, 255, .2);
+    backdrop-filter: blur(4px);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    z-index: 1000;
+    margin: 0 auto;
+    margin-top: 12rem;
+    padding-inline: max(5%, 0.7rem);
+}
+.not-registered-container .message-description {
+    margin-top: 40px;
+}
+.message-description p {
+    margin-top: 5px;
+}
+
+@media screen and (max-width: 680px) {
+    .not-registered-background {
+        background-position: 30% 50%;
+    }
+}

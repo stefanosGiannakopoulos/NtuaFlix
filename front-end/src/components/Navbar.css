@@ -1,0 +1,322 @@
+nav#top-nav {
+    /* background: rgba(0, 98, 155, 0.5); */
+    /* background-color: 	#002855;  IEEE*/
+    /* backdrop-filter: blur(6px); */  
+    /* background-color: #222; */
+    padding: 0 15px;
+    position: absolute;
+    top:0;
+    left:0;
+    width: 100%;
+    z-index: 99999;
+    text-transform: uppercase;    
+  }
+  nav#top-nav.colored {
+    background-color: #222; /* if the page is not the homepage color the navigation bar */
+  }
+  nav#top-nav:has(.menu.active) { 
+    background-color: #222; /* f the page is the HomePage and the navbar is active color the navbar */
+    transition: 0.1s ease-in;
+    -webkit-transition: 0.1s ease-in;
+    -moz-transition: 0.1s ease-in;
+    -o-transition: 0.1s ease-in;
+  }
+
+  nav#top-nav svg {
+    fill: #fff;
+    mix-blend-mode: exclusion;
+    /* width: 3rem; */
+    width: 2.5rem;
+  }
+  nav#top-nav a {
+    align-items: center;
+    color: #fff;
+    cursor: pointer;
+    display: flex;
+    flex-flow: row nowrap;
+    font-size: var(--default-font-size);
+    font-family: var(--normal-font);
+    font-weight: 900;
+    /* font-variation-settings: "wght" 800; */
+    overflow: hidden;
+    position: relative;
+    text-decoration: none;
+    touch-action: manipulation;
+    /* width: fit-content; */
+
+  }
+  nav#top-nav a.active:not(.not-color):not(.subitem-link) { /* if a tag is active in navbar and it is not the logo or the 'join ieee' */
+    /* background-color: #3b49df; */
+    background-color: #fff;
+    /* color:rgba(0, 98, 155, 1); */
+    color: var(--citrine);
+    border-radius: 30px;
+    transition: 0.3s;
+    padding: 10px 20px; /* this could also be in a tag (whether it is active or not)*/
+  }
+
+
+  nav#top-nav a:hover, .hero a:focus {
+    border-color: #389dd6;
+  }
+  nav .menu,
+  nav .submenu {
+    list-style-type: none;
+  }
+  nav .logo a {
+    width: fit-content;
+    outline: 2px solid transparent;
+  }
+  nav .logo {
+    width: 100px;
+    height: auto;
+    /* font-size: 20px; */
+    padding: 7.5px 10px 7.5px 0;
+  }
+  nav .item {
+    padding: 10px;
+  }
+  nav .item.button {
+    padding: 9px 5px;
+  }
+  nav .item:not(.button) a:hover,
+  nav .item a:hover::after {
+    color: #ccc;
+  }
+  /* Mobile menu */
+  nav .menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    /* transition: 2s; */
+  }
+  nav .menu li a {
+    display: block;
+    /* padding: 15px 5px; */
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  nav .menu li.subitem a {
+    padding: 15px;
+  }
+  nav .toggle {
+    order: 1;
+    font-size: 20px;
+  }
+  nav .item.button {
+    order: 2;
+  }
+  nav .item {
+    order: 3;
+    width: 100%;
+    text-align: center;
+    display: none;
+  }
+
+  nav .active .item {
+    display: block;
+    -webkit-animation: expand 0.5s;
+  }
+  @-webkit-keyframes expand{
+    0%{opacity:0}
+    100%{opacity:1}
+  }
+  nav .button.secondary {
+    /* divider between buttons and menu links */
+    border-bottom: 1px #444 solid;
+  }
+  /* Submenu up from mobile screens */
+  nav .submenu {
+    display: none;
+  }
+  nav .submenu-active .submenu {
+    display: block;
+  }
+  nav .has-submenu i {
+    font-size: 12px;
+  }
+  nav .has-submenu.hidden {
+    display: none;
+  }
+  /* nav .has-submenu > a::after {
+    font-family: "Font Awesome 5 Free";
+    font-size: 15px;
+    line-height: 16px;
+    font-weight: 900;
+    content: "\f078";
+    color: #fff;
+    padding-left: 5px;
+  } */
+  nav .subitem a {
+    padding: 10px 15px;
+  }
+  nav .submenu-active {
+    /* background-color: #111; */
+    /* background: rgba(0, 98, 155, 1); */
+    background: var(--citrine);
+    border-radius: 3px;
+  }
+
+
+  .cta {
+    padding: var(--gap);
+    transition: color 0.3s ease-in-out;
+    width: max-content;
+    display: flex!important;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+  }
+  .cta::before {
+    background-color: var(--citrine);
+    border-radius: 1.5rem;
+    content: "";
+    display: block;
+    height: 3rem;
+    left: 0;
+    position: absolute;
+    transition: all 0.3s ease;
+    width: 3rem;
+  }
+  .cta:hover, .cta:focus {
+    color: var(--white);
+    width: max-content;
+  }
+  .cta:hover::before, .cta:focus::before {
+    color: var(--white);
+    width: var(--full-w);
+  }
+  .cta:active {
+    transform: scale(1);
+  }
+  .cta span,
+  .cta svg {
+    z-index: var(--z-20);
+  }
+  .cta span {
+    align-items: center;
+    display: flex;
+    position: relative;
+    text-transform: uppercase;
+  }
+  .cta svg {
+    padding: var(--gap);
+  }
+
+  @-moz-document url-prefix() {  /* if mozilla -> make the whole navbar blackish [:has pseudo class is not working by default in mozilla firefox :( ] */
+    /* nav {
+      background-color: #222;
+    } */
+    nav.false:not(.colored) > .menu.active {
+      background-color: #222!important;
+      width: 100vw;
+      padding-inline:15px;
+      margin:0;
+      position: absolute;
+      left:0;
+      top:0;
+    }
+    @media screen and (min-width:1078px) {
+      nav.false:not(.colored) > .menu.active {
+        background-color: transparent!important;
+      }
+    }
+
+  }
+  
+  /* Tablet menu */
+  @media all and (min-width: 700px) {
+    nav .menu {
+      justify-content: center;
+    }
+    nav .logo {
+      flex: 1;
+    }
+    nav .item.button {
+      width: auto;
+      order: 1;
+      display: block;
+    }
+    nav .toggle {
+      flex: 1;
+      text-align: right;
+      order: 2;
+
+      /* ADDED NOW*/
+      display: flex;
+      justify-content: flex-end;
+    }
+    /* Button up from tablet screen */
+    nav  .menu li.button a {
+      padding: 10px 15px;
+      margin: 5px 0;
+    }
+    nav .button a {
+      background: #0080ff;
+      border: 1px royalblue solid;
+    }
+    nav .button.secondary {
+      border: 0;
+    }
+    nav .button.secondary a {
+      background: transparent;
+      border: 1px #0080ff solid;
+    }
+    nav  .button a:hover {
+      text-decoration: none;
+    }
+    nav  .button:not(.secondary) a:hover {
+      background: royalblue;
+      border-color: darkblue;
+    }
+  }
+  /* Desktop menu */
+  @media all and (min-width: 1078px) {
+    nav {
+      background-color: transparent;
+    }
+    nav:not(.colored) {
+      background-color: transparent!important;
+    }
+    nav.colored:has(.menu.active) {
+      /* background-color: transparent!important; */
+      background-color: #222;
+    } 
+    nav .menu {
+      align-items: flex-start;
+      flex-wrap: nowrap;
+      background: none;
+      align-items: center;
+    }
+    nav .logo {
+      order: 0;
+    }
+    nav  .item {
+      order: 1;
+      position: relative;
+      display: block;
+      width: auto;
+    }
+    nav .button {
+      order: 2;
+    }
+    nav .submenu-active .submenu {
+      display: block;
+      position: absolute;
+      left: 0;
+      /* top: 68px; */
+      min-width: 250px;
+      top:36px;
+      background: var(--citrine);
+    }
+    nav .toggle {
+      display: none;
+    }
+    nav .submenu-active {
+      border-radius: 0;
+    }
+  }

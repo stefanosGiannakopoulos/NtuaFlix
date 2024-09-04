@@ -1,0 +1,57 @@
+services:
+  backend:
+    build: ./back-end
+    environment:
+      - DEBUG=0
+      - DB_TYPE=postgresql
+      - DB_USERNAME=ntuaflix_user
+      - DB_PASSWORD=123456
+      - DB_HOST=db
+      - DB_DATABASE=ntuaflix
+      - SECRET_KEY=469155679be5db1afdb6613292c4c7805dfa71d2be7fde22d5abb522d6f23ef2
+      - ALGORITHM=HS256
+      - FORGET_PWD_SECRET_KEY=658955679be4fr3afdb6613292c4c7805dfa71d2be7fde2297abb535d6f23ef2
+    expose:
+      - "5000"
+    networks:
+      - to_nginx
+      - to_backend
+    depends_on:
+      db:
+        condition: service_healthy
+  db:
+    build: ./services/postgres
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_USER=ntuaflix_user
+      - POSTGRES_PASSWORD=123456
+      - POSTGRES_DB=ntuaflix
+    networks:
+      - to_backend
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -h localhost -U $$POSTGRES_USER -d $$POSTGRES_DB"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+  nginx:
+    build:
+      context: ./services/nginx
+      additional_contexts:
+        - frontend_src=./front-end
+    ports:
+      - "80:80"
+      - "443:443"
+      - "9876:9876"
+    depends_on:
+      - backend
+    networks:
+      - to_nginx
+
+volumes:
+  postgres_data:
+
+networks:
+  to_backend:
+  to_nginx:
+
