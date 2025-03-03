@@ -6,7 +6,6 @@
 ## Introduction
 Unlock Infinite Entertainment with NTUAFLIX: Your Gateway to Movies and Series Extravaganza! Immerse Yourself in a World of Blockbusters and Binge-Worthy Delights. Join the Streaming Revolution Now! #NTUAFLIX #Movies #Series #StreamingExcellence
 
-Access NTUAFLIX [here](https://ntuaflix.ddnsfree.com/ "here").
 <img src="/front-end/public/meta-image.png" style="border-radius:8px;"/>
 
 ## Tech Stack
