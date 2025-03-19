@@ -125,3 +125,11 @@ The cli client testing requires a working API (this is not setup by the test, it
 
 
 What's more, code coverage of the tests can be shown. You can add the option `--cov=.` if you want to do so.
+
+### Contributors
+Stefanos Giannakopoulos
+Konstantinos Pikoulas
+Nikolaos Papakonstantopoulos
+Andreas Stamos
+Paraskevi Kasioumi
+Maria Lazoy
